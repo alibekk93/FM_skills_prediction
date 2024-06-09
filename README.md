@@ -7,6 +7,6 @@ Soccer statistics is a lot of fun, but sometimes may be overwhelming. For somebo
 
 ## Data sources:
 - **FM data:** https://www.kaggle.com/datasets/platinum22/foot-ball-manager-2023-dataset
-- **Real soccer data:** fbref.com (and they get it from Opta, apparently)
+- **Real soccer data:** https://fbref.com (and they get it from Opta, apparently)
 
 
