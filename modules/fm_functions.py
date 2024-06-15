@@ -28,6 +28,30 @@ fm_gks_skills_graph_dict = {
     'distribution': (('Throwing', 0.50), ('Kicking', 0.50)),
 }
 
+### Select important columns
+FM_columns = ['Name', 'Position', 'Corners', 'Crossing', 'Dribbling', 'Finishing', 'First Touch',
+              'Free Kick Taking', 'Heading', 'Long Shots', 'Long Throws', 'Marking', 'Passing',
+              'Penalty Taking', 'Tackling', 'Technique', 'Aggressiion', 'Anticipation', 'Bravery',
+              'Composure', 'Concentration', 'Vision', 'Decision', 'Determination', 'Flair', 'Leadership',
+              'Off The Ball', 'Teamwork', 'Work Rate', 'Positioning', 'Acceleration', 'Agility', 'Balance',
+              'Jumping Reach', 'Natural Fitness', 'Pace', 'Stamina', 'Strength']
+defense_columns = ['defense_Blocks_Blocks', 'defense_Tackles_Tkl', 'defense_Tackles_TklW',
+                   'defense_Tackles_Def 3rd', 'defense_Tackles_Mid 3rd', 'defense_Tackles_Att 3rd',
+                   'defense__Int', 'defense__Clr']
+touches_columns = ['possession_Touches_Def Pen', 'possession_Touches_Def 3rd', 'possession_Touches_Mid 3rd',
+                   'possession_Touches_Att 3rd', 'possession_Touches_Att Pen', 'possession_Touches_Touches']
+passing_columns = ['passing_Total_Att', 'passing_Short_Att', 'passing_Medium_Att', 'passing_Long_Att',
+                   'passing__KP', 'passing__CrsPA', 'passing__PrgP']
+progres_columns = ['possession_Carries_PrgDist', 'possession_Carries_TotDist', 'possession_Receiving_Rec',
+                   'possession_Receiving_PrgR', 'possession_Take-Ons_Att', 'possession_Take-Ons_Succ']
+attack_columns = ['gca_SCATypes_TO', 'gca_SCATypes_Sh', 'gca_SCATypes_Fld', 'gca_SCATypes_Def',
+                  'gca_SCATypes_PassLive', 'gca_SCATypes_PassDead', 'shooting_Standard_Dist',
+                  'shooting_Expected_npxG']
+misc_columns = ['playingtime_PlayingTime_Min', 'misc_Performance_Fls', 'misc_Performance_Fld',
+                'misc_Performance_Off', 'misc_AerialDuels_Won', 'misc_AerialDuels_Lost']
+all_stats_columns = (defense_columns + touches_columns + passing_columns +
+                     progres_columns + attack_columns + misc_columns)
+
 ### Calculate skill nodes for radar graphs
 def calculate_skill_nodes(data: pd.Series, gk: bool = False) -> dict:
     """Calculates node values for a radar plot of FM skills.
