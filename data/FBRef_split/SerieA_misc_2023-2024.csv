@@ -1,0 +1,617 @@
+,_Rk,_Player,_Nation,_Pos,_Squad,_Age,_Born,_90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,Performance_Recov,AerialDuels_Won,AerialDuels_Lost,AerialDuels_Won%,Matches
+0,1,Tammy Abraham,eng ENG,FW,Roma,25.0,1997.0,2.7,1,0,0,6,5,2,2,0,1,1.0,0.0,0,1.0,6.0,5.0,54.5,Matches
+1,2,Francesco Acerbi,it ITA,DF,Inter,35.0,1988.0,26.5,1,0,0,19,24,3,9,32,13,0.0,0.0,0,102.0,70.0,37.0,65.4,Matches
+2,3,Yacine Adli,fr FRA,MF,Milan,23.0,2000.0,15.6,3,0,0,26,9,1,50,20,17,0.0,1.0,0,94.0,15.0,10.0,60.0,Matches
+3,4,Michel Aebischer,ch SUI,MF,Bologna,26.0,1997.0,24.8,8,0,0,37,30,0,12,12,20,0.0,0.0,0,135.0,11.0,16.0,40.7,Matches
+4,5,Lucien Agoume,fr FRA,MF,Inter,21.0,2002.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches
+5,6,Marley Aké,fr FRA,FW,Udinese,22.0,2001.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0,Matches
+6,7,Ebenezer Akinsanmiro,ng NGA,MF,Inter,18.0,2004.0,0.2,0,0,0,0,3,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+7,8,Jean-Daniel Akpa-Akpro,ci CIV,MF,Monza,30.0,1992.0,7.8,5,0,0,15,5,0,1,12,11,0.0,1.0,0,29.0,5.0,7.0,41.7,Matches
+8,9,David Akpan Ankeye,ng NGA,FW,Genoa,21.0,2002.0,0.6,0,0,0,2,1,0,1,0,0,0.0,0.0,0,4.0,0.0,1.0,0.0,Matches
+9,10,Luis Alberto,es ESP,MF,Lazio,30.0,1992.0,25.7,7,0,0,16,23,6,150,7,20,0.0,0.0,0,140.0,10.0,19.0,34.5,Matches
+10,11,Carlos Alcaraz,ar ARG,MF,Juventus,20.0,2002.0,4.2,0,0,0,5,5,0,1,5,6,0.0,0.0,0,17.0,2.0,9.0,18.2,Matches
+11,12,Pontus Almqvist,se SWE,FWMF,Lecce,24.0,1999.0,23.4,5,0,0,29,35,1,21,14,29,2.0,0.0,0,69.0,14.0,22.0,38.9,Matches
+12,13,Lorenzo Amatucci,it ITA,MF,Fiorentina,19.0,2004.0,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,3.0,1.0,1.0,50.0,Matches
+13,14,Bruno Amione,ar ARG,DF,Hellas Verona,21.0,2002.0,6.4,2,0,0,10,6,0,1,9,3,0.0,0.0,0,39.0,19.0,10.0,65.5,Matches
+14,15,Felipe Anderson,br BRA,FWMF,Lazio,30.0,1993.0,30.8,3,0,0,30,36,4,57,27,45,0.0,0.0,0,139.0,15.0,16.0,48.4,Matches
+15,16,Angeliño,es ESP,DF,Roma,26.0,1997.0,12.7,2,0,0,13,10,1,53,12,11,0.0,0.0,1,55.0,15.0,9.0,62.5,Matches
+16,17,Houssem Aouar,dz ALG,MFFW,Roma,25.0,1998.0,8.4,3,0,0,10,11,3,10,4,11,0.0,0.0,0,39.0,10.0,11.0,47.6,Matches
+17,18,Simone Aresti,it ITA,GK,Cagliari,37.0,1986.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+18,19,Marko Arnautović,at AUT,FW,Inter,34.0,1989.0,8.9,0,0,0,11,15,8,7,5,4,0.0,0.0,0,17.0,4.0,7.0,36.4,Matches
+19,20,Kristjan Asllani,al ALB,MF,Inter,21.0,2002.0,8.7,1,0,0,4,19,0,35,11,2,0.0,0.0,0,57.0,4.0,7.0,36.4,Matches
+20,21,Emil Audero,it ITA,GK,Inter,26.0,1997.0,3.7,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0,Matches
+21,22,Tommaso Augello,it ITA,DF,Cagliari,28.0,1994.0,26.9,5,0,0,15,14,1,153,17,19,0.0,0.0,0,147.0,34.0,28.0,54.8,Matches
+22,23,Carlos Augusto,br BRA,DF,Inter,24.0,1999.0,19.2,1,0,0,17,6,1,40,16,21,0.0,0.0,0,74.0,59.0,26.0,69.4,Matches
+23,24,Yann Aurel Bisseck,de GER,DF,Inter,22.0,2000.0,10.0,0,0,0,6,11,2,5,5,6,0.0,0.0,0,37.0,18.0,17.0,51.4,Matches
+24,25,Sardar Azmoun,ir IRN,FWMF,Roma,28.0,1995.0,6.5,4,0,0,8,11,2,2,3,5,2.0,0.0,0,19.0,13.0,15.0,46.4,Matches
+25,26,Paulo Azzi,br BRA,DFMF,Cagliari,29.0,1994.0,10.6,1,0,0,5,4,4,48,16,11,0.0,0.0,0,59.0,13.0,11.0,54.2,Matches
+26,27,Oussama El Azzouzi,ma MAR,MF,Bologna,22.0,2001.0,6.1,4,0,0,14,7,1,2,6,7,0.0,0.0,0,37.0,5.0,11.0,31.3,Matches
+27,28,Milan Badelj,hr CRO,MF,Genoa,34.0,1989.0,28.2,6,0,0,24,14,0,14,50,27,0.0,0.0,0,177.0,12.0,13.0,48.0,Matches
+28,29,Jaime Báez,uy URU,FWMF,Frosinone,28.0,1995.0,5.6,1,0,0,6,15,5,24,4,1,1.0,0.0,0,29.0,4.0,5.0,44.4,Matches
+29,30,Nicola Bagnolini,it ITA,GK,Bologna,19.0,2004.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+30,31,Nedim Bajrami,al ALB,MFFW,Sassuolo,24.0,1999.0,14.6,0,0,0,12,6,3,78,6,6,0.0,0.0,0,57.0,2.0,11.0,15.4,Matches
+31,32,Mitchel Bakker,nl NED,DF,Atalanta,23.0,2000.0,4.2,1,0,0,4,4,1,13,3,3,0.0,0.0,0,30.0,4.0,1.0,80.0,Matches
+32,33,Tommaso Baldanzi,it ITA,MFFW,Empoli,20.0,2003.0,8.3,1,0,0,4,16,2,16,2,2,0.0,0.0,0,27.0,1.0,6.0,14.3,Matches
+33,34,Tommaso Baldanzi,it ITA,FWMF,Roma,20.0,2003.0,5.8,2,0,0,7,14,1,7,0,5,0.0,0.0,0,20.0,0.0,2.0,0.0,Matches
+34,35,Lameck Banda,zm ZAM,FW,Lecce,22.0,2001.0,15.0,5,1,0,32,30,9,51,3,23,0.0,0.0,0,82.0,9.0,16.0,36.0,Matches
+35,36,Daniel Bandeira,pt POR,MF,Hellas Verona,23.0,2000.0,5.0,2,0,0,5,3,0,7,3,5,0.0,0.0,0,34.0,4.0,12.0,25.0,Matches
+36,37,Mattia Bani,it ITA,DF,Genoa,29.0,1993.0,25.6,9,0,0,21,28,2,1,22,10,0.0,0.0,0,98.0,49.0,42.0,53.8,Matches
+37,38,Antonín Barák,cz CZE,MFFW,Fiorentina,28.0,1994.0,9.0,2,0,0,8,7,1,4,2,2,0.0,0.0,0,35.0,13.0,22.0,37.1,Matches
+38,39,Nicolò Barella,it ITA,MF,Inter,26.0,1997.0,31.6,7,0,0,28,27,3,51,10,30,1.0,0.0,0,167.0,20.0,15.0,57.1,Matches
+39,40,Enzo Barrenechea,ar ARG,MF,Frosinone,22.0,2001.0,31.2,10,0,0,32,52,0,1,27,42,0.0,0.0,0,231.0,51.0,43.0,54.3,Matches
+40,41,Davide Bartesaghi,it ITA,DFMF,Milan,17.0,2005.0,0.9,0,0,0,1,1,0,0,0,0,0.0,0.0,0,2.0,3.0,0.0,100.0,Matches
+41,42,Federico Baschirotto,it ITA,DF,Lecce,26.0,1996.0,36.6,3,1,0,30,4,0,3,23,12,0.0,2.0,0,153.0,93.0,70.0,57.1,Matches
+42,43,Toma Bašić,hr CRO,MF,Salernitana,26.0,1996.0,12.9,5,0,0,14,16,0,25,14,13,0.0,0.0,0,60.0,8.0,12.0,40.0,Matches
+43,44,Alessandro Bastoni,it ITA,DF,Inter,24.0,1999.0,25.2,5,0,0,31,31,0,76,23,33,0.0,0.0,0,119.0,37.0,29.0,56.1,Matches
+44,45,Simone Bastoni,it ITA,MFDF,Empoli,26.0,1996.0,8.3,3,0,0,17,13,0,36,11,13,0.0,0.0,0,37.0,8.0,11.0,42.1,Matches
+45,46,Reda Belahyane,fr FRA,MF,Hellas Verona,19.0,2004.0,1.0,0,0,0,1,1,0,0,1,1,0.0,0.0,0,5.0,0.0,0.0,,Matches
+46,47,Raoul Bellanova,it ITA,DF,Torino,23.0,2000.0,33.8,5,0,0,14,53,2,178,15,26,0.0,0.0,0,127.0,30.0,32.0,48.4,Matches
+47,48,Andrea Belotti,it ITA,FW,Fiorentina,29.0,1993.0,10.5,0,0,0,15,22,7,4,2,3,2.0,0.0,0,16.0,39.0,43.0,47.6,Matches
+48,49,Andrea Belotti,it ITA,FW,Roma,29.0,1993.0,7.5,1,0,0,14,25,8,4,2,4,0.0,0.0,0,15.0,14.0,22.0,38.9,Matches
+49,50,Lucas Beltrán,ar ARG,FWMF,Fiorentina,22.0,2001.0,18.8,6,0,0,24,28,4,7,2,14,1.0,0.0,0,50.0,22.0,58.0,27.5,Matches
+50,51,Ismaël Bennacer,dz ALG,MF,Milan,25.0,1997.0,12.8,2,0,0,18,26,1,32,12,19,0.0,0.0,0,78.0,13.0,19.0,40.6,Matches
+51,52,Domenico Berardi,it ITA,FW,Sassuolo,28.0,1994.0,15.9,6,0,0,28,28,4,72,13,8,1.0,0.0,0,57.0,9.0,18.0,33.3,Matches
+52,53,Bartosz Bereszyński,pl POL,DF,Empoli,31.0,1992.0,19.6,3,0,0,23,15,0,16,21,25,0.0,0.0,0,81.0,23.0,16.0,59.0,Matches
+53,54,Etrit Berisha,al ALB,GK,Empoli,34.0,1989.0,14.0,0,0,0,0,2,0,0,0,0,0.0,0.0,0,26.0,7.0,0.0,100.0,Matches
+54,55,Medon Berisha,al ALB,FWMF,Lecce,19.0,2003.0,2.3,0,0,0,7,5,0,3,1,1,0.0,0.0,0,10.0,1.0,0.0,100.0,Matches
+55,56,Victor Bernth Kristiansen,dk DEN,DF,Bologna,20.0,2002.0,25.6,4,0,0,29,7,1,35,12,34,1.0,1.0,0,88.0,24.0,19.0,55.8,Matches
+56,57,Beto,gw GNB,FW,Udinese,25.0,1998.0,0.8,0,0,0,0,0,3,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0,Matches
+57,58,Davide Bettella,it ITA,MF,Monza,23.0,2000.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+58,59,Sam Beukema,nl NED,DF,Bologna,24.0,1998.0,28.3,6,1,1,27,11,1,2,15,11,0.0,2.0,0,144.0,46.0,36.0,56.1,Matches
+59,60,Jaka Bijol,si SVN,DF,Udinese,24.0,1999.0,23.2,4,0,0,28,7,0,1,23,27,0.0,0.0,0,85.0,84.0,26.0,76.4,Matches
+60,61,El Bilal Touré,ml MLI,FW,Atalanta,21.0,2001.0,4.4,2,0,0,13,8,3,2,1,1,1.0,0.0,0,8.0,14.0,14.0,50.0,Matches
+61,62,Cristiano Biraghi,it ITA,DF,Fiorentina,30.0,1992.0,26.2,8,0,0,44,14,1,226,14,28,0.0,0.0,0,98.0,8.0,12.0,40.0,Matches
+62,63,Davide Biraschi,it ITA,DF,Genoa,29.0,1994.0,1.0,0,0,0,0,2,0,0,2,3,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches
+63,64,Samuele Birindelli,it ITA,DF,Monza,24.0,1999.0,22.4,7,0,0,30,32,1,54,18,19,0.0,0.0,0,77.0,8.0,6.0,57.1,Matches
+64,65,Alexis Blin,fr FRA,MF,Lecce,26.0,1996.0,18.2,4,0,0,25,22,0,11,22,19,0.0,1.0,0,111.0,28.0,48.0,36.8,Matches
+65,66,Jérôme Boateng,de GER,DF,Salernitana,34.0,1988.0,2.6,0,0,0,2,0,1,1,4,0,0.0,0.0,0,10.0,8.0,7.0,53.3,Matches
+66,67,Emil Bohinen,no NOR,MF,Genoa,24.0,1999.0,0.6,0,0,0,0,0,0,2,0,1,0.0,0.0,0,11.0,2.0,1.0,66.7,Matches
+67,68,Emil Bohinen,no NOR,MF,Salernitana,24.0,1999.0,5.9,1,0,0,5,6,0,2,14,6,0.0,0.0,0,42.0,11.0,10.0,52.4,Matches
+68,69,Daniel Boloca,ro ROU,MF,Sassuolo,24.0,1998.0,22.5,6,1,0,25,7,0,8,14,33,0.0,1.0,0,155.0,24.0,20.0,54.5,Matches
+69,70,Giacomo Bonaventura,it ITA,MF,Fiorentina,33.0,1989.0,25.3,6,0,0,20,35,1,54,14,13,0.0,0.0,0,120.0,14.0,17.0,45.2,Matches
+70,71,Federico Bonazzoli,it ITA,FWMF,Hellas Verona,26.0,1997.0,11.3,2,0,0,10,20,9,7,3,1,0.0,0.0,0,31.0,6.0,11.0,35.3,Matches
+71,72,Warren Bondo,fr FRA,MF,Monza,19.0,2003.0,16.4,9,0,0,31,19,0,2,6,22,0.0,1.0,0,70.0,10.0,7.0,58.8,Matches
+72,73,Giovanni Bonfanti,it ITA,DF,Atalanta,20.0,2003.0,1.0,0,0,0,2,1,0,2,1,2,0.0,0.0,0,7.0,1.0,2.0,33.3,Matches
+73,74,Kevin Bonifazi,it ITA,DF,Bologna,27.0,1996.0,1.0,0,0,0,1,1,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,,Matches
+74,75,Kevin Bonifazi,it ITA,DF,Frosinone,27.0,1996.0,3.4,0,0,0,4,1,0,0,3,3,0.0,0.0,0,15.0,6.0,7.0,46.2,Matches
+75,76,Gennaro Borrelli,it ITA,FW,Frosinone,23.0,2000.0,0.3,0,0,0,0,0,2,1,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches
+76,77,Erik Botheim,no NOR,FWMF,Salernitana,23.0,2000.0,3.5,1,0,0,2,11,0,1,0,0,0.0,0.0,0,7.0,2.0,17.0,10.5,Matches
+77,78,Mehdi Bourabia,ma MAR,MF,Frosinone,31.0,1991.0,2.2,1,0,0,5,1,1,2,0,4,0.0,2.0,0,19.0,2.0,3.0,40.0,Matches
+78,79,Edoardo Bove,it ITA,MF,Roma,21.0,2002.0,19.8,2,0,0,31,37,1,8,11,31,0.0,0.0,0,95.0,29.0,35.0,45.3,Matches
+79,80,Domagoj Bradarić,hr CRO,DF,Salernitana,23.0,1999.0,30.5,5,0,0,14,34,0,81,32,20,0.0,0.0,0,150.0,23.0,28.0,45.1,Matches
+80,81,Josip Brekalo,hr CRO,FW,Fiorentina,25.0,1998.0,7.2,0,0,0,13,6,1,24,1,6,0.0,0.0,0,26.0,1.0,4.0,20.0,Matches
+81,82,Gleison Bremer,br BRA,DF,Juventus,26.0,1997.0,35.9,9,0,0,60,17,2,1,40,42,0.0,1.0,0,196.0,102.0,56.0,64.6,Matches
+82,83,Brenner,br BRA,MFFW,Udinese,23.0,2000.0,2.1,0,0,0,0,3,1,1,0,7,0.0,0.0,0,15.0,0.0,2.0,0.0,Matches
+83,84,Marco Brescianini,it ITA,MF,Frosinone,23.0,2000.0,25.8,1,0,0,35,24,5,20,10,13,0.0,0.0,0,107.0,20.0,30.0,40.0,Matches
+84,85,Dylan Bronn,tn TUN,DFMF,Salernitana,28.0,1995.0,0.6,0,0,0,0,2,0,0,0,0,0.0,0.0,0,0.0,4.0,4.0,50.0,Matches
+85,86,Tajon Buchanan,ca CAN,DF,Inter,24.0,1999.0,1.8,0,0,0,1,6,1,11,0,1,0.0,0.0,0,6.0,0.0,3.0,0.0,Matches
+86,87,Alessandro Buongiorno,it ITA,DF,Torino,24.0,1999.0,28.1,7,0,0,69,39,1,3,69,39,1.0,1.0,0,127.0,78.0,53.0,59.5,Matches
+87,88,Rareș-Cătălin Burnete,ro ROU,FW,Lecce,19.0,2004.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+88,89,Jovane Cabral,cv CPV,MFFW,Salernitana,25.0,1998.0,7.5,1,0,0,19,13,6,14,1,9,0.0,1.0,0,31.0,5.0,15.0,25.0,Matches
+89,90,Liberato Cacace,nz NZL,DF,Empoli,22.0,2000.0,21.2,6,0,0,30,18,1,68,19,24,0.0,0.0,0,119.0,17.0,22.0,43.6,Matches
+90,91,Jens Cajuste,se SWE,MF,Napoli,23.0,1999.0,11.3,7,0,0,29,11,1,6,4,24,0.0,1.0,0,46.0,15.0,17.0,46.9,Matches
+91,92,Davide Calabria,it ITA,DF,Milan,26.0,1996.0,24.3,5,2,1,25,19,0,36,24,38,0.0,1.0,0,90.0,12.0,27.0,30.8,Matches
+92,93,Riccardo Calafiori,it ITA,DF,Bologna,21.0,2002.0,26.1,4,0,0,35,27,2,9,50,32,0.0,2.0,1,194.0,60.0,24.0,71.4,Matches
+93,94,Mattia Caldara,it ITA,DF,Milan,29.0,1994.0,0.4,0,0,0,0,0,0,0,1,1,0.0,0.0,0,3.0,2.0,0.0,100.0,Matches
+94,95,Luca Caldirola,it ITA,DF,Monza,32.0,1991.0,23.8,7,1,1,24,17,1,4,29,14,0.0,1.0,0,58.0,30.0,23.0,56.6,Matches
+95,96,Hakan Çalhanoğlu,tr TUR,MF,Inter,29.0,1994.0,28.4,5,0,0,43,23,0,153,24,33,0.0,0.0,0,166.0,26.0,18.0,59.1,Matches
+96,97,Francesco Camarda,it ITA,FW,Milan,15.0,2008.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,2.0,0.0,Matches
+97,98,Nicolò Cambiaghi,it ITA,FWMF,Empoli,22.0,2000.0,28.4,3,0,0,48,77,3,131,14,39,2.0,0.0,0,99.0,9.0,25.0,26.5,Matches
+98,99,Andrea Cambiaso,it ITA,DFFW,Juventus,23.0,2000.0,26.4,10,0,0,35,20,4,81,11,30,1.0,0.0,0,124.0,13.0,16.0,44.8,Matches
+99,100,Matteo Cancellieri,it ITA,FWMF,Empoli,21.0,2002.0,19.9,7,0,0,35,52,13,42,6,22,1.0,1.0,0,70.0,32.0,67.0,32.3,Matches
+100,101,Antonio Candreva,it ITA,MFFW,Salernitana,36.0,1987.0,30.6,5,0,0,11,43,21,223,7,13,0.0,0.0,0,93.0,0.0,1.0,0.0,Matches
+101,102,Luigi Canotto,it ITA,FW,Frosinone,29.0,1994.0,0.2,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+102,103,Gianluca Caprari,it ITA,MFFW,Monza,30.0,1993.0,3.2,0,0,0,3,5,2,8,2,1,0.0,0.0,0,11.0,0.0,5.0,0.0,Matches
+103,104,Elia Caprile,it ITA,GK,Empoli,21.0,2001.0,23.0,0,0,0,1,7,0,0,0,0,0.0,0.0,0,18.0,10.0,2.0,83.3,Matches
+104,105,Francesco Caputo,it ITA,FW,Empoli,35.0,1987.0,14.1,0,0,0,10,14,20,1,1,0,0.0,0.0,0,19.0,12.0,23.0,34.3,Matches
+105,106,Andrea Carboni,it ITA,DF,Monza,22.0,2001.0,16.5,1,0,0,12,5,1,21,17,22,0.0,0.0,0,56.0,21.0,17.0,55.3,Matches
+106,107,Valentin Carboni,ar ARG,MFFW,Monza,18.0,2005.0,13.0,2,0,0,21,20,3,14,7,15,0.0,0.0,0,60.0,4.0,13.0,23.5,Matches
+107,108,Marco Carnesecchi,it ITA,GK,Atalanta,23.0,2000.0,26.9,0,0,0,1,2,0,0,0,0,0.0,1.0,0,39.0,7.0,1.0,87.5,Matches
+108,109,Nicolò Casale,it ITA,DF,Lazio,25.0,1998.0,17.3,5,0,0,24,6,0,0,12,9,0.0,1.0,0,74.0,23.0,24.0,48.9,Matches
+109,110,Giuseppe Caso,it ITA,FWMF,Frosinone,24.0,1998.0,4.6,2,0,0,5,14,1,2,0,3,1.0,0.0,0,13.0,0.0,2.0,0.0,Matches
+110,111,Valentín Castellanos,ar ARG,FW,Lazio,24.0,1998.0,18.7,2,0,0,34,31,20,15,2,10,0.0,0.0,0,51.0,71.0,64.0,52.6,Matches
+111,112,Samu Castillejo,es ESP,FWMF,Sassuolo,28.0,1995.0,6.0,2,0,0,11,18,1,34,1,10,0.0,0.0,0,33.0,2.0,9.0,18.2,Matches
+112,113,Santiago Castro,ar ARG,FW,Bologna,18.0,2004.0,2.7,1,0,0,7,7,0,1,1,1,0.0,0.0,0,4.0,5.0,7.0,41.7,Matches
+113,114,Gaetano Castrovilli,it ITA,FWMF,Fiorentina,26.0,1997.0,4.1,0,0,0,4,5,1,9,2,2,0.0,0.0,0,17.0,3.0,2.0,60.0,Matches
+114,115,Danilo Cataldi,it ITA,MF,Lazio,28.0,1994.0,15.1,8,0,0,17,8,0,31,17,12,0.0,0.0,0,105.0,6.0,4.0,60.0,Matches
+115,116,Emil Ceide,no NOR,FWMF,Sassuolo,21.0,2001.0,2.0,0,0,0,2,1,0,5,0,2,0.0,0.0,0,7.0,0.0,3.0,0.0,Matches
+116,117,Zeki Çelik,tr TUR,DF,Roma,26.0,1997.0,7.5,1,0,0,14,3,0,20,8,16,0.0,0.0,0,33.0,3.0,7.0,30.0,Matches
+117,118,Fabien Centonze,fr FRA,DF,Hellas Verona,27.0,1996.0,7.5,2,0,0,13,7,1,28,10,8,0.0,0.0,0,23.0,9.0,5.0,64.3,Matches
+118,119,Michele Cerofolini,it ITA,GK,Frosinone,24.0,1999.0,7.5,1,0,0,1,0,0,0,0,0,0.0,1.0,1,8.0,1.0,0.0,100.0,Matches
+119,120,Alberto Cerri,it ITA,FW,Empoli,27.0,1996.0,6.1,2,0,0,15,9,6,1,3,3,0.0,0.0,0,18.0,41.0,30.0,57.7,Matches
+120,121,Leonardo Cerri,it ITA,DF,Juventus,20.0,2003.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+121,122,Charlys,br BRA,MF,Hellas Verona,19.0,2004.0,0.3,0,0,0,0,0,0,0,1,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+122,123,Walid Cheddira,ma MAR,FW,Frosinone,25.0,1998.0,23.6,0,0,0,27,43,16,3,5,7,2.0,0.0,0,47.0,37.0,69.0,34.9,Matches
+123,124,Federico Chiesa,it ITA,FW,Juventus,25.0,1997.0,24.4,1,0,0,13,40,7,117,6,10,1.0,0.0,0,62.0,0.0,9.0,0.0,Matches
+124,125,Oliver Christensen,dk DEN,GK,Fiorentina,24.0,1999.0,4.0,0,0,0,2,1,0,0,0,0,0.0,2.0,0,8.0,0.0,0.0,,Matches
+125,126,Samuel Chukwueze,ng NGA,FW,Milan,24.0,1999.0,11.3,1,0,0,7,12,7,20,6,7,0.0,0.0,0,59.0,9.0,17.0,34.6,Matches
+126,127,Alphadjo Cissè,it ITA,FW,Hellas Verona,16.0,2006.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+127,128,Giorgio Cittadini,it ITA,DF,Monza,21.0,2002.0,0.2,1,0,0,1,1,0,0,0,1,0.0,0.0,0,1.0,0.0,0.0,,Matches
+128,129,Giorgio Cittadini,it ITA,DF,Genoa,21.0,2002.0,1.2,0,0,0,2,4,0,0,3,4,0.0,0.0,0,8.0,2.0,4.0,33.3,Matches
+129,130,Patrick Ciurria,it ITA,DFMF,Monza,28.0,1995.0,17.8,2,0,0,29,14,4,53,9,18,0.0,1.0,0,56.0,7.0,9.0,43.8,Matches
+130,131,Lorenzo Colombo,it ITA,FW,Monza,21.0,2002.0,15.1,3,0,0,25,24,6,2,0,12,0.0,0.0,0,35.0,19.0,64.0,22.9,Matches
+131,132,Andrea Colpani,it ITA,MFFW,Monza,24.0,1999.0,29.5,1,0,0,23,44,2,111,14,15,0.0,0.0,0,86.0,9.0,25.0,26.5,Matches
+132,133,Pietro Comuzzo,it ITA,DFFW,Fiorentina,18.0,2005.0,0.5,1,0,0,1,0,0,0,1,1,0.0,0.0,0,5.0,8.0,3.0,72.7,Matches
+133,134,Andrea Consigli,it ITA,GK,Sassuolo,36.0,1987.0,35.0,1,0,0,0,3,0,0,1,0,0.0,0.0,0,32.0,7.0,0.0,100.0,Matches
+134,135,Nikita Contini Baranovsky,it ITA,GK,Napoli,27.0,1996.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+135,136,Diego Coppola,it ITA,DF,Hellas Verona,19.0,2003.0,18.2,9,0,0,32,4,0,0,27,22,0.0,0.0,0,70.0,82.0,47.0,63.6,Matches
+136,137,Tommaso Corazza,it ITA,DF,Bologna,19.0,2004.0,2.2,1,0,0,1,3,0,8,5,4,0.0,0.0,0,8.0,0.0,1.0,0.0,Matches
+137,138,Jeppe Corfitzen,dk DEN,FW,Lecce,18.0,2004.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches
+138,139,Giacomo Corona,it ITA,FW,Empoli,19.0,2004.0,0.1,0,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+139,140,João Costa,br BRA,MFFW,Roma,18.0,2005.0,0.2,1,0,0,2,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+140,141,Benoît Costil,fr FRA,GK,Salernitana,36.0,1987.0,13.0,0,0,0,0,1,0,1,0,1,0.0,0.0,0,14.0,0.0,0.0,,Matches
+141,142,Lassana Coulibaly,ml MLI,MF,Salernitana,27.0,1996.0,23.1,5,0,0,33,36,1,8,16,32,0.0,0.0,0,129.0,29.0,32.0,47.5,Matches
+142,143,Mamadou Coulibaly,sn SEN,DF,Salernitana,24.0,1999.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+143,144,Alessio Cragno,it ITA,GK,Sassuolo,29.0,1994.0,3.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0,Matches
+144,145,Bryan Cristante,it ITA,MFDF,Roma,28.0,1995.0,36.5,8,0,0,77,16,4,29,25,41,0.0,1.0,0,203.0,82.0,60.0,57.7,Matches
+145,146,Juan Cruz,ar ARG,FWMF,Hellas Verona,24.0,1999.0,1.2,0,0,0,1,0,0,1,1,2,0.0,0.0,0,2.0,1.0,3.0,25.0,Matches
+146,147,Juan Cuadrado,co COL,DF,Inter,35.0,1988.0,3.0,1,0,0,4,6,1,18,1,3,0.0,0.0,0,11.0,0.0,0.0,,Matches
+147,148,Marvin Cuni,al ALB,FW,Frosinone,22.0,2001.0,5.9,0,0,0,13,12,3,4,1,3,2.0,0.0,0,18.0,16.0,33.0,32.7,Matches
+148,149,Danilo D'Ambrosio,it ITA,DF,Monza,34.0,1988.0,17.1,5,1,1,18,13,1,7,14,34,0.0,1.0,0,77.0,27.0,20.0,57.4,Matches
+149,150,Flavius Daniliuc,at AUT,DF,Salernitana,22.0,2001.0,8.3,2,0,0,14,4,0,1,8,11,0.0,0.0,0,52.0,20.0,15.0,57.1,Matches
+150,151,Danilo,br BRA,DF,Juventus,32.0,1991.0,27.2,7,0,0,26,14,1,18,37,36,0.0,0.0,0,142.0,37.0,27.0,57.8,Matches
+151,152,Matteo Darmian,it ITA,DF,Inter,33.0,1989.0,26.7,2,0,0,27,11,1,21,13,22,1.0,2.0,0,74.0,20.0,17.0,54.1,Matches
+152,153,Juan David Cabal,co COL,DF,Hellas Verona,22.0,2001.0,16.6,6,0,0,27,16,1,33,26,27,0.0,0.0,0,68.0,58.0,21.0,73.4,Matches
+153,154,Keinan Davis,eng ENG,FWMF,Udinese,25.0,1998.0,2.1,2,0,0,5,3,3,0,0,0,0.0,0.0,0,5.0,9.0,5.0,64.3,Matches
+154,155,Paweł Dawidowicz,pl POL,DF,Hellas Verona,28.0,1995.0,23.8,5,0,0,33,9,0,2,24,30,0.0,0.0,1,139.0,67.0,30.0,69.1,Matches
+155,156,Charles De Ketelaere,be BEL,FWMF,Atalanta,22.0,2001.0,22.5,1,0,0,17,47,6,47,7,21,0.0,0.0,1,93.0,38.0,35.0,52.1,Matches
+156,157,Mattia De Sciglio,it ITA,DF,Juventus,30.0,1992.0,0.5,0,0,0,0,1,0,0,1,0,0.0,0.0,0,2.0,0.0,0.0,,Matches
+157,158,Lorenzo De Silvestri,it ITA,DF,Bologna,35.0,1988.0,7.5,0,0,0,3,6,0,9,6,8,0.0,0.0,0,21.0,9.0,5.0,64.3,Matches
+158,159,Koni De Winter,be BEL,DF,Genoa,21.0,2002.0,26.4,8,1,1,37,11,0,5,21,25,0.0,1.0,0,120.0,58.0,38.0,60.4,Matches
+159,160,Grégoire Defrel,mq MTQ,FWMF,Sassuolo,32.0,1991.0,8.4,0,0,0,9,8,1,2,3,8,0.0,0.0,0,30.0,6.0,21.0,22.2,Matches
+160,161,Alessandro Deiola,it ITA,MF,Cagliari,27.0,1995.0,17.9,7,0,0,25,17,0,15,9,19,0.0,0.0,1,87.0,35.0,30.0,53.8,Matches
+161,162,Alessandro Dellavalle,it ITA,DF,Torino,19.0,2004.0,0.2,0,0,0,0,1,0,0,1,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches
+162,163,Diego Demme,de GER,MF,Napoli,31.0,1991.0,0.8,1,0,0,1,2,0,3,0,1,0.0,0.0,0,8.0,1.0,0.0,100.0,Matches
+163,164,Leander Dendoncker,be BEL,MF,Napoli,28.0,1995.0,0.3,0,0,0,0,1,0,0,0,0,0.0,0.0,0,4.0,2.0,0.0,100.0,Matches
+164,165,Mattia Destro,it ITA,FWMF,Empoli,32.0,1991.0,4.1,2,0,0,6,7,4,0,2,1,0.0,0.0,0,9.0,13.0,17.0,43.3,Matches
+165,166,Federico Di Francesco,it ITA,FWMF,Lecce,29.0,1994.0,0.2,0,0,0,0,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches
+166,167,Raffaele Di Gennaro,it ITA,GK,Inter,29.0,1993.0,0.3,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+167,168,Michele Di Gregorio,it ITA,GK,Monza,26.0,1997.0,31.9,0,0,0,0,4,0,0,1,0,0.0,0.0,0,33.0,6.0,1.0,85.7,Matches
+168,169,Giovanni Di Lorenzo,it ITA,DF,Napoli,29.0,1993.0,35.9,6,0,0,28,37,5,126,24,36,0.0,0.0,0,141.0,27.0,39.0,40.9,Matches
+169,170,Alessandro Di Pardo,it ITA,DFMF,Cagliari,24.0,1999.0,4.0,0,0,0,3,2,1,18,5,1,0.0,2.0,0,26.0,4.0,2.0,66.7,Matches
+170,171,Boulaye Dia,sn SEN,FWMF,Salernitana,26.0,1996.0,12.7,1,0,0,11,24,3,1,3,2,0.0,0.0,0,41.0,6.0,27.0,18.2,Matches
+171,172,Federico Dimarco,it ITA,DF,Inter,25.0,1997.0,23.1,0,0,0,12,21,5,196,9,25,0.0,0.0,0,99.0,6.0,9.0,40.0,Matches
+172,173,Tiago Djaló,pt POR,DF,Juventus,23.0,2000.0,0.2,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches
+173,174,Koffi Djidji,ci CIV,DF,Torino,30.0,1992.0,8.4,2,0,0,11,1,0,2,10,9,0.0,0.0,0,37.0,8.0,6.0,57.1,Matches
+174,175,Berat Djimsiti,al ALB,DF,Atalanta,30.0,1993.0,31.5,5,0,0,17,11,0,6,57,24,0.0,1.0,0,171.0,92.0,55.0,62.6,Matches
+175,176,Dodô,br BRA,DF,Fiorentina,24.0,1998.0,5.8,0,0,0,7,8,0,19,5,3,0.0,0.0,0,34.0,4.0,2.0,66.7,Matches
+176,177,Josh Doig,sct SCO,DF,Hellas Verona,21.0,2002.0,9.2,2,0,0,7,4,1,30,4,9,0.0,1.0,0,36.0,5.0,7.0,41.7,Matches
+177,178,Josh Doig,sct SCO,DF,Sassuolo,21.0,2002.0,14.9,5,0,0,15,11,0,47,16,17,0.0,1.0,0,49.0,15.0,14.0,51.7,Matches
+178,179,Nicolás Domínguez,ar ARG,MF,Bologna,25.0,1998.0,1.1,0,0,0,3,0,0,0,0,0,0.0,0.0,0,7.0,1.0,0.0,100.0,Matches
+179,180,Giulio Donati,it ITA,DF,Monza,33.0,1990.0,0.4,2,0,0,1,0,0,4,0,0,0.0,0.0,0,2.0,0.0,2.0,0.0,Matches
+180,181,Patrick Dorgu,dk DEN,DFMF,Lecce,18.0,2004.0,17.4,6,0,0,25,44,2,41,9,22,0.0,0.0,0,78.0,27.0,25.0,51.9,Matches
+181,182,Alberto Dossena,it ITA,DF,Cagliari,24.0,1998.0,33.1,5,0,0,38,42,0,1,45,35,0.0,0.0,2,190.0,118.0,68.0,63.4,Matches
+182,183,Radu Drăgușin,ro ROU,DF,Genoa,21.0,2002.0,19.0,1,0,0,14,14,0,1,21,11,0.0,0.0,0,62.0,58.0,25.0,69.9,Matches
+183,184,Ondrej Duda,sk SVK,MF,Hellas Verona,28.0,1994.0,27.3,14,2,2,54,51,0,94,26,39,0.0,0.0,0,195.0,7.0,19.0,26.9,Matches
+184,185,Denzel Dumfries,nl NED,DF,Inter,27.0,1996.0,18.2,2,1,0,25,18,5,47,12,13,0.0,0.0,0,58.0,36.0,18.0,66.7,Matches
+185,186,Alfred Duncan,gh GHA,MF,Fiorentina,30.0,1993.0,21.0,2,0,0,26,15,3,65,11,22,0.0,0.0,0,117.0,29.0,29.0,50.0,Matches
+186,187,Paulo Dybala,ar ARG,FWMF,Roma,29.0,1993.0,21.8,3,0,0,12,50,5,88,3,13,0.0,0.0,0,83.0,7.0,21.0,25.0,Matches
+187,188,Festy Ebosele,ie IRL,DF,Udinese,20.0,2002.0,18.9,6,1,1,29,45,1,45,10,20,1.0,3.0,0,74.0,16.0,18.0,47.1,Matches
+188,189,Enzo Ebosse,cm CMR,DF,Udinese,24.0,1999.0,0.1,0,0,0,0,0,0,0,1,1,0.0,0.0,0,3.0,0.0,0.0,,Matches
+189,190,Tyronne Ebuehi,ng NGA,DF,Empoli,27.0,1995.0,12.2,0,0,0,7,9,3,23,6,9,0.0,0.0,0,70.0,8.0,18.0,30.8,Matches
+190,191,Éderson,br BRA,MF,Atalanta,24.0,1999.0,31.9,8,0,0,45,34,0,17,41,49,0.0,0.0,0,188.0,35.0,25.0,58.3,Matches
+191,192,Kingsley Ehizibue,nl NED,DF,Udinese,28.0,1995.0,10.6,4,0,0,12,21,5,17,8,14,0.0,0.0,0,44.0,12.0,13.0,48.0,Matches
+192,193,Emmanuel Ekong,se SWE,FW,Empoli,21.0,2002.0,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+193,194,Caleb Ekuban,gh GHA,FW,Genoa,29.0,1994.0,12.6,0,0,0,17,27,3,4,1,4,1.0,0.0,0,36.0,33.0,34.0,49.3,Matches
+194,195,Elif Elmas,mk MKD,FWMF,Napoli,23.0,1999.0,3.8,2,0,0,7,6,1,6,2,3,0.0,0.0,0,19.0,1.0,6.0,14.3,Matches
+195,196,Martin Erlic,hr CRO,DF,Sassuolo,25.0,1998.0,29.1,5,0,0,30,26,0,5,28,22,0.0,2.0,0,110.0,55.0,48.0,53.4,Matches
+196,197,Giovanni Fabbian,it ITA,MFFW,Bologna,20.0,2003.0,11.7,4,0,0,16,18,2,4,7,10,0.0,0.0,0,30.0,17.0,22.0,43.6,Matches
+197,198,Nicolò Fagioli,it ITA,MF,Juventus,22.0,2001.0,4.9,1,0,0,3,5,1,19,4,3,0.0,0.0,0,23.0,1.0,0.0,100.0,Matches
+198,199,Wladimiro Falcone,it ITA,GK,Lecce,28.0,1995.0,38.0,0,0,0,0,5,0,0,1,0,1.0,0.0,0,30.0,5.0,0.0,100.0,Matches
+199,200,Davide Faraoni,it ITA,DF,Hellas Verona,31.0,1991.0,6.7,5,0,0,11,9,0,19,6,10,0.0,0.0,0,38.0,9.0,7.0,56.3,Matches
+200,201,Davide Faraoni,it ITA,DF,Fiorentina,31.0,1991.0,4.4,0,0,0,3,6,0,17,5,4,0.0,1.0,0,10.0,4.0,7.0,36.4,Matches
+201,202,Federico Fazio,ar ARG,DF,Salernitana,36.0,1987.0,15.1,3,1,0,9,9,0,0,17,11,0.0,1.0,0,54.0,50.0,21.0,70.4,Matches
+202,203,Jacopo Fazzini,it ITA,MF,Empoli,20.0,2003.0,13.7,6,0,0,23,27,1,54,12,25,1.0,1.0,0,78.0,14.0,29.0,32.6,Matches
+203,204,Lewis Ferguson,sct SCO,MF,Bologna,23.0,1999.0,30.1,8,0,0,52,72,4,11,17,21,1.0,1.0,0,142.0,34.0,40.0,45.9,Matches
+204,205,Andrea Ferraris,it ITA,MF,Monza,20.0,2003.0,0.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches
+205,206,João Ferreira,pt POR,DF,Udinese,22.0,2001.0,20.2,9,0,0,35,11,2,21,29,42,1.0,1.0,0,106.0,18.0,14.0,56.3,Matches
+206,207,Seydou Fini,it ITA,DFFW,Genoa,17.0,2006.0,0.4,0,0,0,0,2,0,1,0,0,0.0,0.0,0,1.0,1.0,2.0,33.3,Matches
+207,208,Vincenzo Fiorillo,it ITA,GK,Salernitana,33.0,1990.0,4.0,1,1,0,0,3,0,0,0,0,0.0,0.0,0,2.0,1.0,0.0,100.0,Matches
+208,209,Alessandro Florenzi,it ITA,DF,Milan,32.0,1991.0,19.2,5,0,0,11,9,2,122,20,21,0.0,0.0,0,97.0,7.0,17.0,29.2,Matches
+209,210,Michael Folorunsho,it ITA,MFFW,Hellas Verona,25.0,1998.0,30.9,5,0,0,50,74,11,64,17,28,1.0,0.0,0,145.0,75.0,78.0,49.0,Matches
+210,211,Davide Frattesi,it ITA,MF,Inter,23.0,1999.0,10.6,1,0,0,12,16,1,11,5,6,1.0,0.0,0,38.0,14.0,15.0,48.3,Matches
+211,212,Morten Frendrup,dk DEN,MF,Genoa,22.0,2001.0,34.9,6,0,0,49,35,1,12,51,72,0.0,1.0,0,197.0,31.0,29.0,51.7,Matches
+212,213,Remo Freuler,ch SUI,MF,Bologna,31.0,1992.0,29.2,9,0,0,44,15,0,9,36,50,0.0,1.0,0,137.0,20.0,27.0,42.6,Matches
+213,214,Gerardo Fusco,it ITA,FW,Salernitana,18.0,2005.0,0.2,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+214,215,Matteo Gabbia,it ITA,DF,Milan,23.0,1999.0,14.2,5,0,0,27,8,0,0,10,20,0.0,0.0,0,62.0,35.0,18.0,66.0,Matches
+215,216,Gianluca Gaetano,it ITA,FWMF,Cagliari,23.0,2000.0,8.3,1,1,0,10,12,3,15,3,4,0.0,0.0,0,41.0,4.0,24.0,14.3,Matches
+216,217,Gianluca Gaetano,it ITA,MF,Napoli,23.0,2000.0,1.8,1,0,0,3,1,0,3,1,1,1.0,0.0,0,15.0,1.0,3.0,25.0,Matches
+217,218,Roberto Gagliardini,it ITA,MFDF,Monza,29.0,1994.0,26.2,5,0,0,26,21,1,8,31,30,0.0,1.0,0,140.0,46.0,36.0,56.1,Matches
+218,219,Pablo Galdames Millán,cl CHI,MFDF,Genoa,26.0,1996.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,1.0,1.0,50.0,Matches
+219,220,Antonino Gallo,it ITA,DF,Lecce,23.0,2000.0,27.7,2,0,0,9,17,3,138,25,27,0.0,0.0,0,161.0,25.0,33.0,43.1,Matches
+220,221,Luca Garritano,it ITA,MFDF,Frosinone,29.0,1994.0,5.4,1,0,0,6,7,0,16,4,5,0.0,0.0,0,34.0,3.0,7.0,30.0,Matches
+221,222,Federico Gatti,it ITA,DF,Juventus,25.0,1998.0,29.3,7,0,0,39,15,0,19,19,19,1.0,0.0,2,116.0,50.0,31.0,61.7,Matches
+222,223,Francesco Gelli,it ITA,MFDF,Frosinone,26.0,1996.0,17.3,3,0,0,15,40,1,53,11,13,0.0,0.0,0,82.0,15.0,16.0,48.4,Matches
+223,224,Luca Gemello,it ITA,GK,Torino,23.0,2000.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,4.0,0.0,0.0,,Matches
+224,225,Valentin Gendrey,fr FRA,DF,Lecce,23.0,2000.0,33.8,5,0,0,27,40,3,61,35,33,0.0,1.0,0,104.0,53.0,39.0,57.6,Matches
+225,226,Farés Ghedjemis,fr FRA,FWMF,Frosinone,20.0,2002.0,2.0,1,0,0,2,0,1,6,1,0,0.0,0.0,0,10.0,1.0,2.0,33.3,Matches
+226,227,Lautaro Gianetti,ar ARG,DF,Udinese,29.0,1993.0,7.0,4,0,0,9,0,0,0,19,4,0.0,0.0,1,25.0,8.0,8.0,50.0,Matches
+227,228,Mario Gila,es ESP,DF,Lazio,22.0,2000.0,20.1,4,1,1,21,23,1,8,20,14,0.0,0.0,0,109.0,29.0,43.0,40.3,Matches
+228,229,Gvidas Gineitis,lt LTU,MF,Torino,19.0,2004.0,6.0,2,0,0,9,3,0,22,4,7,0.0,0.0,0,37.0,7.0,5.0,58.3,Matches
+229,230,Olivier Giroud,fr FRA,FW,Milan,36.0,1986.0,26.3,1,1,0,31,24,14,3,6,11,0.0,1.0,0,29.0,59.0,57.0,50.9,Matches
+230,231,Edoardo Goldaniga,it ITA,DF,Cagliari,29.0,1993.0,11.2,3,0,0,14,10,3,10,15,7,0.0,0.0,0,37.0,18.0,18.0,50.0,Matches
+231,232,Pierluigi Gollini,it ITA,GK,Napoli,28.0,1995.0,7.0,0,0,0,0,1,0,0,1,1,0.0,0.0,0,12.0,2.0,0.0,100.0,Matches
+232,233,Papu Gómez,ar ARG,MFFW,Monza,35.0,1988.0,0.5,0,0,0,0,0,0,5,1,0,0.0,0.0,0,3.0,0.0,0.0,,Matches
+233,234,Iron Gomis,fr FRA,MF,Salernitana,23.0,1999.0,1.5,0,0,0,2,2,1,1,2,1,0.0,0.0,0,10.0,3.0,0.0,100.0,Matches
+234,235,Joan Gonzàlez,es ESP,MF,Lecce,21.0,2002.0,14.3,6,0,0,15,33,1,10,5,18,0.0,0.0,0,81.0,25.0,36.0,41.0,Matches
+235,236,Nicolás González,ar ARG,FW,Fiorentina,25.0,1998.0,21.3,1,0,0,21,36,2,39,12,18,0.0,0.0,0,84.0,64.0,50.0,56.1,Matches
+236,237,Alberto Grassi,it ITA,MF,Empoli,28.0,1995.0,20.1,6,1,1,22,33,0,5,41,18,0.0,0.0,1,124.0,28.0,30.0,48.3,Matches
+237,238,Mattéo Guendouzi,fr FRA,MF,Lazio,24.0,1999.0,26.3,3,1,0,26,34,0,42,21,15,0.0,1.0,0,120.0,12.0,25.0,32.4,Matches
+238,239,Axel Guessand,fr FRA,DF,Udinese,18.0,2004.0,0.5,0,0,0,0,1,0,0,0,1,0.0,0.0,0,3.0,1.0,1.0,50.0,Matches
+239,240,Albert Guðmundsson,is ISL,FWMF,Genoa,26.0,1997.0,33.5,4,0,0,28,46,11,179,11,10,1.0,0.0,0,136.0,3.0,22.0,12.0,Matches
+240,241,Emmanuel Gyasi,gh GHA,DFFW,Empoli,29.0,1994.0,20.9,8,0,0,40,21,6,23,5,17,0.0,0.0,0,90.0,17.0,37.0,31.5,Matches
+241,242,Norbert Gyömbér,sk SVK,DF,Salernitana,31.0,1992.0,19.6,9,0,0,33,17,0,0,23,18,0.0,1.0,1,111.0,31.0,28.0,52.5,Matches
+242,243,Nicolas Haas,ch SUI,MF,Empoli,27.0,1996.0,1.0,1,0,0,1,1,0,0,1,3,0.0,0.0,0,9.0,3.0,0.0,100.0,Matches
+243,244,Ridgeciano Haps,sr SUR,DF,Genoa,30.0,1993.0,8.6,0,0,0,3,16,1,16,6,6,0.0,0.0,0,33.0,10.0,6.0,62.5,Matches
+244,245,Abdou Harroui,nl NED,MFFW,Frosinone,25.0,1998.0,11.3,2,0,0,18,16,1,12,5,11,0.0,0.0,0,53.0,12.0,8.0,60.0,Matches
+245,246,Hans Hateboer,nl NED,DF,Atalanta,29.0,1994.0,12.4,5,0,0,16,3,0,34,4,5,0.0,1.0,0,34.0,18.0,11.0,62.1,Matches
+246,247,Pantelis Hatzidiakos,gr GRE,DF,Cagliari,26.0,1997.0,9.5,1,0,0,7,4,0,6,13,10,0.0,0.0,0,50.0,5.0,9.0,35.7,Matches
+247,248,Silvan Hefti,ch SUI,MFDF,Genoa,25.0,1997.0,1.3,0,0,0,2,1,0,2,0,1,0.0,0.0,0,3.0,2.0,2.0,50.0,Matches
+248,249,Liam Henderson,sct SCO,MF,Empoli,27.0,1996.0,0.1,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+249,250,Matheus Henrique,br BRA,MF,Sassuolo,25.0,1997.0,27.8,8,1,1,21,38,2,26,25,29,0.0,0.0,0,141.0,14.0,12.0,53.8,Matches
+250,251,Thomas Henry,fr FRA,FW,Hellas Verona,28.0,1994.0,3.7,2,2,0,15,5,3,3,0,0,0.0,0.0,0,8.0,19.0,20.0,48.7,Matches
+251,252,Theo Hernández,fr FRA,DF,Milan,25.0,1997.0,31.0,11,1,0,38,50,2,68,23,17,1.0,1.0,0,172.0,29.0,18.0,61.7,Matches
+252,253,Isak Hien,se SWE,DF,Hellas Verona,24.0,1999.0,9.6,1,1,0,11,2,0,0,7,10,0.0,0.0,0,66.0,34.0,24.0,58.6,Matches
+253,254,Isak Hien,se SWE,DF,Atalanta,24.0,1999.0,10.4,3,0,0,18,9,2,0,14,12,0.0,0.0,0,60.0,36.0,15.0,70.6,Matches
+254,255,Emil Holm,se SWE,DF,Atalanta,23.0,2000.0,10.5,5,0,0,14,21,1,35,7,19,2.0,0.0,0,57.0,28.0,24.0,53.8,Matches
+255,256,Martin Hongla,cm CMR,MF,Hellas Verona,25.0,1998.0,12.0,0,0,0,6,6,1,4,7,13,0.0,0.0,0,79.0,9.0,10.0,47.4,Matches
+256,257,Sydney van Hooijdonk,nl NED,FW,Bologna,23.0,2000.0,2.4,0,0,0,6,2,1,1,1,0,0.0,0.0,0,3.0,5.0,12.0,29.4,Matches
+257,258,Dean Huijsen,es ESP,DF,Roma,18.0,2005.0,5.7,4,0,0,10,2,0,1,4,5,1.0,0.0,1,24.0,9.0,7.0,56.3,Matches
+258,259,Dean Huijsen,es ESP,DF,Juventus,18.0,2005.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+259,260,Elseid Hysaj,al ALB,DF,Lazio,29.0,1994.0,13.3,2,0,0,14,9,3,18,17,14,0.0,0.0,0,72.0,14.0,13.0,51.9,Matches
+260,261,Arijon Ibrahimović,de GER,FWDF,Frosinone,17.0,2005.0,5.3,1,0,0,3,4,2,7,1,6,0.0,0.0,0,19.0,5.0,8.0,38.5,Matches
+261,262,Jonathan Ikone,fr FRA,FW,Fiorentina,25.0,1998.0,18.7,5,0,0,16,15,5,11,3,11,1.0,0.0,0,60.0,15.0,22.0,40.5,Matches
+262,263,Chukwubuikem Ikwuemesi,ng NGA,FW,Salernitana,21.0,2001.0,11.8,2,0,0,35,20,8,2,1,1,0.0,0.0,0,23.0,29.0,59.0,33.0,Matches
+263,264,Ivan Ilić,rs SRB,MF,Torino,22.0,2001.0,23.3,3,0,0,24,25,1,91,20,8,0.0,1.0,0,112.0,19.0,19.0,50.0,Matches
+264,265,Samuel Iling-Junior,eng ENG,DFMF,Juventus,19.0,2003.0,9.0,1,0,0,15,5,1,46,6,13,0.0,0.0,0,40.0,9.0,3.0,75.0,Matches
+265,266,Ciro Immobile,it ITA,FW,Lazio,33.0,1990.0,18.4,8,0,0,22,31,14,7,5,9,2.0,0.0,0,34.0,14.0,28.0,33.3,Matches
+266,267,Gino Infantino,ar ARG,MF,Fiorentina,20.0,2003.0,1.1,1,0,0,4,2,0,0,3,1,0.0,0.0,0,2.0,1.0,5.0,16.7,Matches
+267,268,Gustav Isaksen,dk DEN,FW,Lazio,22.0,2001.0,11.9,3,0,0,17,24,3,29,4,3,0.0,0.0,0,41.0,4.0,7.0,36.4,Matches
+268,269,Ardian Ismajli,al ALB,DF,Empoli,26.0,1996.0,22.7,2,0,0,18,16,0,4,23,16,0.0,1.0,0,72.0,52.0,39.0,57.1,Matches
+269,270,Armando Izzo,it ITA,DF,Monza,31.0,1992.0,18.3,9,0,0,32,26,1,3,27,17,0.0,0.0,0,81.0,19.0,20.0,48.7,Matches
+270,271,Filip Jagiełło,pl POL,MF,Genoa,25.0,1997.0,0.4,0,0,0,0,0,0,0,1,0,0.0,0.0,0,3.0,0.0,0.0,,Matches
+271,272,Jakub Jankto,cz CZE,MFFW,Cagliari,27.0,1996.0,9.7,0,0,0,9,8,1,26,5,9,0.0,0.0,0,33.0,3.0,8.0,27.3,Matches
+272,273,Juan Jesus,br BRA,DF,Napoli,32.0,1991.0,23.5,7,0,0,28,9,0,0,23,19,0.0,1.0,0,112.0,47.0,47.0,50.0,Matches
+273,274,Alejandro Jiménez,es ESP,DF,Milan,18.0,2005.0,0.8,1,0,0,2,1,0,1,0,1,0.0,0.0,0,2.0,0.0,0.0,,Matches
+274,275,Kaio Jorge,br BRA,FW,Frosinone,21.0,2002.0,9.0,2,0,0,8,10,2,3,1,4,0.0,0.0,0,29.0,8.0,23.0,25.8,Matches
+275,276,Luka Jović,rs SRB,FW,Milan,25.0,1997.0,9.7,2,1,0,8,12,2,1,1,4,0.0,0.0,0,20.0,17.0,15.0,53.1,Matches
+276,277,Hamed Junior Traorè,ci CIV,MF,Napoli,23.0,2000.0,4.2,1,0,0,4,7,1,7,2,2,0.0,0.0,0,20.0,1.0,5.0,16.7,Matches
+277,278,Mohamed Kaba,fr FRA,MF,Lecce,21.0,2001.0,15.3,4,1,1,26,21,0,7,12,23,0.0,0.0,0,84.0,21.0,18.0,53.8,Matches
+278,279,Christian Kabasele,be BEL,DF,Udinese,32.0,1991.0,9.6,5,0,0,15,9,0,2,12,7,0.0,2.0,0,22.0,26.0,10.0,72.2,Matches
+279,280,Yayah Kallon,sl SLE,FW,Hellas Verona,22.0,2001.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches
+280,281,Pierre Kalulu,fr FRA,DF,Milan,23.0,2000.0,4.2,0,0,0,1,3,0,5,1,1,0.0,0.0,0,15.0,3.0,8.0,27.3,Matches
+281,282,Daichi Kamada,jp JPN,MF,Lazio,26.0,1996.0,17.2,3,0,0,39,13,2,11,18,36,0.0,0.0,0,75.0,3.0,16.0,15.8,Matches
+282,283,Hassane Kamara,ci CIV,DF,Udinese,29.0,1994.0,24.7,4,0,0,21,8,6,71,26,32,0.0,0.0,0,130.0,16.0,14.0,53.3,Matches
+283,284,Yann Karamoh,fr FRA,MFFW,Torino,25.0,1998.0,1.8,0,0,0,2,3,2,5,0,0,0.0,0.0,0,10.0,2.0,2.0,50.0,Matches
+284,285,Jesper Karlsson,se SWE,FW,Bologna,25.0,1998.0,3.8,0,0,0,4,1,1,24,4,3,0.0,0.0,0,16.0,0.0,2.0,0.0,Matches
+285,286,Rick Karsdorp,nl NED,DF,Roma,28.0,1995.0,13.2,2,0,0,9,9,0,28,9,18,1.0,0.0,0,50.0,5.0,2.0,71.4,Matches
+286,287,Grigoris Kastanos,cy CYP,MFDF,Salernitana,25.0,1998.0,16.4,5,0,0,18,44,3,38,8,14,0.0,0.0,0,85.0,24.0,36.0,40.0,Matches
+287,288,Michael Kayode,it ITA,DF,Fiorentina,19.0,2004.0,22.9,2,0,0,14,19,2,66,18,30,0.0,0.0,0,105.0,17.0,18.0,48.6,Matches
+288,289,Moise Kean,it ITA,FW,Juventus,23.0,2000.0,7.3,2,0,0,13,13,7,1,2,4,0.0,0.0,0,18.0,10.0,6.0,62.5,Matches
+289,290,Simon Kjær,dk DEN,DF,Milan,34.0,1989.0,13.0,1,0,0,9,2,0,1,14,15,1.0,0.0,0,59.0,23.0,17.0,57.5,Matches
+290,291,Davy Klaassen,nl NED,MF,Inter,30.0,1993.0,2.3,1,0,0,3,0,1,0,3,2,0.0,0.0,0,9.0,4.0,1.0,80.0,Matches
+291,292,Sead Kolašinac,ba BIH,DF,Atalanta,30.0,1993.0,24.2,4,0,0,29,20,1,9,21,32,0.0,0.0,0,151.0,34.0,32.0,51.5,Matches
+292,293,Teun Koopmeiners,nl NED,MF,Atalanta,25.0,1998.0,29.2,5,0,0,53,23,5,121,10,24,0.0,1.0,0,150.0,29.0,34.0,46.0,Matches
+293,294,Filip Kostić,rs SRB,DF,Juventus,30.0,1992.0,20.2,2,0,0,19,18,7,168,9,23,0.0,0.0,0,73.0,11.0,17.0,39.3,Matches
+294,295,Christian Kouamé,ci CIV,FW,Fiorentina,25.0,1997.0,12.1,0,0,0,17,25,0,20,2,4,0.0,0.0,0,66.0,56.0,43.0,56.6,Matches
+295,296,Viktor Kovalenko,ua UKR,MF,Empoli,27.0,1996.0,6.8,1,0,0,7,10,2,13,1,2,0.0,0.0,0,23.0,8.0,14.0,36.4,Matches
+296,297,Rasmus Kristensen,dk DEN,DF,Roma,26.0,1997.0,19.4,5,0,0,14,8,1,44,8,19,1.0,0.0,1,67.0,30.0,21.0,58.8,Matches
+297,298,Thomas Kristensen,dk DEN,DF,Udinese,21.0,2002.0,23.3,4,1,1,26,7,1,1,29,24,0.0,0.0,0,74.0,58.0,40.0,59.2,Matches
+298,299,Nikola Krstović,me MNE,FW,Lecce,23.0,2000.0,26.4,4,1,0,45,54,14,4,4,6,1.0,0.0,0,69.0,63.0,82.0,43.4,Matches
+299,300,Rade Krunić,ba BIH,MF,Milan,29.0,1993.0,7.6,3,0,0,10,11,0,4,11,8,0.0,0.0,0,41.0,11.0,6.0,64.7,Matches
+300,301,Marash Kumbulla,al ALB,DF,Sassuolo,23.0,2000.0,4.0,1,0,0,3,1,0,0,0,2,0.0,1.0,1,6.0,4.0,4.0,50.0,Matches
+301,302,Justin Kumi,it ITA,FW,Sassuolo,19.0,2004.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+302,303,Berkan Kutlu,tr TUR,MF,Genoa,25.0,1998.0,2.2,0,0,0,4,4,0,12,4,4,0.0,0.0,0,6.0,2.0,2.0,50.0,Matches
+303,304,Khvicha Kvaratskhelia,ge GEO,FW,Napoli,22.0,2001.0,30.4,8,0,0,25,80,4,99,13,21,2.0,0.0,0,99.0,11.0,20.0,35.5,Matches
+304,305,Giorgi Kvernadze,ge GEO,FWDF,Frosinone,20.0,2003.0,0.7,0,0,0,3,1,0,1,1,0,0.0,0.0,0,4.0,0.0,0.0,,Matches
+305,306,Giorgos Kyriakopoulos,gr GRE,DF,Monza,27.0,1996.0,19.0,3,0,0,15,14,2,84,13,10,0.0,1.0,0,71.0,12.0,20.0,37.5,Matches
+306,307,Gianluca Lapadula,pe PER,FW,Cagliari,33.0,1990.0,13.4,3,0,0,22,18,15,7,2,1,1.0,0.0,0,27.0,21.0,31.0,40.4,Matches
+307,308,Armand Lauriente,fr FRA,FW,Sassuolo,24.0,1998.0,32.3,5,0,0,34,55,4,135,15,20,1.0,0.0,0,138.0,6.0,28.0,17.6,Matches
+308,309,Valentino Lazaro,at AUT,DFMF,Torino,27.0,1996.0,22.2,3,0,0,12,10,1,127,8,11,0.0,0.0,0,103.0,14.0,20.0,41.2,Matches
+309,310,Darko Lazović,rs SRB,FWMF,Hellas Verona,32.0,1990.0,21.4,0,1,0,5,5,13,97,6,16,0.0,0.0,0,67.0,8.0,15.0,34.8,Matches
+310,311,Manuel Lazzari,it ITA,DF,Lazio,29.0,1993.0,18.6,4,1,0,16,20,1,56,12,18,0.0,0.0,0,72.0,5.0,16.0,23.8,Matches
+311,312,Nicola Leali,it ITA,GK,Genoa,30.0,1993.0,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+312,313,Rafael Leão,pt POR,FW,Milan,24.0,1999.0,27.9,5,0,0,27,52,17,108,9,10,2.0,1.0,0,78.0,24.0,17.0,58.5,Matches
+313,314,Jesper Lindstrøm,dk DEN,FWMF,Napoli,23.0,2000.0,4.8,2,0,0,6,4,2,12,2,3,0.0,0.0,0,15.0,1.0,4.0,20.0,Matches
+314,315,Karol Linetty,pl POL,MF,Torino,28.0,1995.0,20.6,12,0,0,50,18,2,19,23,21,0.0,0.0,0,102.0,18.0,16.0,52.9,Matches
+315,316,Luca Lipani,it ITA,MF,Sassuolo,18.0,2005.0,4.3,0,0,0,6,1,0,5,6,7,0.0,0.0,0,22.0,5.0,7.0,41.7,Matches
+316,317,Pol Lirola,es ESP,DF,Frosinone,25.0,1997.0,17.1,1,0,0,7,12,2,25,19,18,0.0,0.0,0,80.0,14.0,19.0,42.4,Matches
+317,318,Marcin Listkowski,pl POL,FW,Lecce,25.0,1998.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+318,319,Diego Llorente,es ESP,DF,Roma,29.0,1993.0,24.1,5,0,0,25,23,0,6,22,19,0.0,1.0,0,92.0,43.0,50.0,46.2,Matches
+319,320,Stanislav Lobotka,sk SVK,MF,Napoli,28.0,1994.0,36.5,4,0,0,33,41,0,3,30,39,0.0,0.0,0,236.0,11.0,23.0,32.4,Matches
+320,321,Manuel Locatelli,it ITA,MF,Juventus,25.0,1998.0,33.4,6,0,0,41,24,2,10,25,43,0.0,0.0,0,171.0,26.0,15.0,63.4,Matches
+321,322,Ruben Loftus-Cheek,eng ENG,MF,Milan,27.0,1996.0,23.0,5,0,0,39,45,1,13,9,18,1.0,0.0,0,91.0,43.0,31.0,58.1,Matches
+322,323,Ademola Lookman,ng NGA,FWMF,Atalanta,25.0,1997.0,21.0,4,0,0,28,34,12,69,9,15,1.0,0.0,0,89.0,18.0,21.0,46.2,Matches
+323,324,Maxime Lopez,fr FRA,MF,Fiorentina,25.0,1997.0,8.9,1,0,0,8,5,0,16,7,9,0.0,0.0,0,46.0,3.0,5.0,37.5,Matches
+324,325,Maxime Lopez,fr FRA,MF,Sassuolo,25.0,1997.0,1.6,0,1,0,2,2,0,0,2,1,0.0,0.0,0,10.0,0.0,1.0,0.0,Matches
+325,326,Matteo Lovato,it ITA,DF,Torino,23.0,2000.0,6.0,2,0,0,14,0,0,0,13,7,0.0,1.0,0,18.0,11.0,9.0,55.0,Matches
+326,327,Matteo Lovato,it ITA,DF,Salernitana,23.0,2000.0,10.5,2,0,0,7,5,0,1,18,14,0.0,2.0,0,47.0,15.0,18.0,45.5,Matches
+327,328,Sandi Lovrić,si SVN,MF,Udinese,25.0,1998.0,22.1,1,1,0,25,23,1,82,21,12,0.0,0.0,0,118.0,8.0,18.0,30.8,Matches
+328,329,Lorenzo Lucca,it ITA,FW,Udinese,22.0,2000.0,28.8,6,0,0,52,54,21,8,3,11,0.0,0.0,0,71.0,95.0,93.0,50.5,Matches
+329,330,Jhon Lucumí,co COL,DF,Bologna,25.0,1998.0,24.6,1,0,0,10,18,1,1,16,29,0.0,0.0,0,136.0,29.0,28.0,50.9,Matches
+330,331,José Luis Palomino,ar ARG,DF,Atalanta,33.0,1990.0,0.3,0,0,0,0,0,0,0,1,1,0.0,0.0,0,3.0,3.0,0.0,100.0,Matches
+331,332,Romelu Lukaku,be BEL,FW,Roma,30.0,1993.0,29.3,5,1,0,24,17,25,13,0,5,0.0,0.0,0,52.0,51.0,55.0,48.1,Matches
+332,333,Karlo Lulić,hr CRO,MF,Frosinone,27.0,1996.0,0.2,0,0,0,0,0,0,0,1,0,0.0,0.0,0,2.0,0.0,1.0,0.0,Matches
+333,334,Sebastiano Luperto,it ITA,DF,Empoli,26.0,1996.0,37.8,4,0,0,26,18,1,12,32,26,0.0,0.0,0,142.0,77.0,58.0,57.0,Matches
+334,335,Mateus Lusuardi,br BRA,DF,Frosinone,19.0,2004.0,2.4,1,0,0,2,0,0,1,4,1,0.0,1.0,0,7.0,3.0,1.0,75.0,Matches
+335,336,Zito Luvumbo,ao ANG,FWMF,Cagliari,21.0,2002.0,21.6,5,0,0,31,67,14,82,1,6,1.0,0.0,0,71.0,4.0,27.0,12.9,Matches
+336,337,Charalambos Lykogiannis,gr GRE,DF,Bologna,29.0,1993.0,10.0,2,0,0,12,0,2,59,5,6,0.0,0.0,0,31.0,16.0,13.0,55.2,Matches
+337,338,Giulio Maggiore,it ITA,MF,Salernitana,25.0,1998.0,20.0,9,1,1,39,37,1,3,24,29,0.0,1.0,0,134.0,24.0,46.0,34.3,Matches
+338,339,Giangiacomo Magnani,it ITA,DF,Hellas Verona,27.0,1995.0,27.2,6,0,0,27,30,0,12,45,18,1.0,0.0,0,147.0,45.0,37.0,54.9,Matches
+339,340,Mike Maignan,fr FRA,GK,Milan,28.0,1995.0,29.0,1,1,0,1,5,0,0,1,0,0.0,0.0,0,38.0,7.0,1.0,87.5,Matches
+340,341,Antoine Makoumbou,cg CGO,MF,Cagliari,25.0,1998.0,30.0,5,2,1,28,28,1,11,16,24,0.0,0.0,0,159.0,11.0,20.0,35.5,Matches
+341,342,Daniel Maldini,it ITA,MFFW,Monza,21.0,2001.0,3.7,0,0,0,3,5,2,9,2,2,0.0,0.0,0,11.0,1.0,5.0,16.7,Matches
+342,343,Daniel Maldini,it ITA,FWMF,Empoli,21.0,2001.0,2.9,1,0,0,8,5,0,5,2,2,0.0,0.0,0,6.0,7.0,5.0,58.3,Matches
+343,344,Youssef Maleh,ma MAR,MF,Empoli,24.0,1998.0,28.9,11,0,0,56,37,0,47,25,48,0.0,2.0,0,172.0,17.0,34.0,33.3,Matches
+344,345,Ruslan Malinovskyi,ua UKR,MF,Genoa,30.0,1993.0,17.2,7,0,0,31,17,0,19,5,20,0.0,0.0,0,88.0,22.0,19.0,53.7,Matches
+345,346,Gianluca Mancini,it ITA,DF,Roma,27.0,1996.0,31.9,9,0,0,49,31,0,24,36,20,0.0,0.0,0,106.0,42.0,33.0,56.0,Matches
+346,347,Marco Mancosu,it ITA,MFFW,Cagliari,34.0,1988.0,1.7,0,0,0,3,1,2,4,0,0,0.0,0.0,0,8.0,0.0,4.0,0.0,Matches
+347,348,Christos Mandas,gr GRE,GK,Lazio,21.0,2001.0,8.0,0,0,0,0,1,0,0,1,0,0.0,0.0,0,10.0,2.0,0.0,100.0,Matches
+348,349,Rolando Mandragora,it ITA,MF,Fiorentina,26.0,1997.0,17.6,5,0,0,26,24,0,34,9,11,0.0,0.0,0,60.0,31.0,39.0,44.3,Matches
+349,350,Kostas Manolas,gr GRE,DF,Salernitana,32.0,1991.0,5.4,0,0,0,5,3,0,1,2,5,0.0,0.0,0,19.0,20.0,8.0,71.4,Matches
+350,351,Riccardo Marchizza,it ITA,DF,Frosinone,25.0,1998.0,12.8,1,0,0,6,3,0,22,7,6,0.0,0.0,0,43.0,9.0,12.0,42.9,Matches
+351,352,Gian Marco Ferrari,it ITA,DF,Sassuolo,31.0,1992.0,25.2,4,0,0,26,21,0,14,25,10,0.0,3.0,0,95.0,39.0,38.0,50.6,Matches
+352,353,Pablo Marí,es ESP,DF,Monza,29.0,1993.0,29.1,7,0,0,37,9,0,4,37,25,0.0,1.0,0,98.0,41.0,20.0,67.2,Matches
+353,354,Mirko Marić,hr CRO,FW,Monza,28.0,1995.0,3.2,0,1,0,4,5,3,1,2,0,0.0,0.0,0,11.0,11.0,17.0,39.3,Matches
+354,355,Răzvan Marin,ro ROU,MF,Empoli,27.0,1996.0,20.2,3,0,0,28,18,1,98,6,22,0.0,0.0,0,91.0,12.0,12.0,50.0,Matches
+355,356,Agustín Martegani,ar ARG,MF,Salernitana,23.0,2000.0,8.1,1,0,0,10,14,0,1,4,7,0.0,0.0,0,51.0,6.0,5.0,54.5,Matches
+356,357,Aarón Martín,es ESP,DF,Genoa,26.0,1997.0,15.3,4,1,1,23,17,2,106,9,10,0.0,0.0,0,48.0,8.0,11.0,42.1,Matches
+357,358,Tommaso Martinelli,it ITA,GK,Fiorentina,17.0,2006.0,1.0,0,0,0,0,0,0,0,0,0,,,0,,,,,Matches
+358,359,Josep Martinez,es ESP,GK,Genoa,25.0,1998.0,36.0,4,1,1,2,11,0,0,1,0,0.0,1.0,0,61.0,13.0,1.0,92.9,Matches
+359,360,Lautaro Martínez,ar ARG,FW,Inter,25.0,1997.0,29.5,5,0,0,46,59,12,15,20,16,2.0,1.0,0,90.0,38.0,27.0,58.5,Matches
+360,361,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,27.0,1996.0,25.5,9,0,0,41,13,1,5,30,47,0.0,0.0,0,141.0,49.0,55.0,47.1,Matches
+361,362,Adam Marušić,me MNE,DF,Lazio,30.0,1992.0,34.4,3,1,0,24,10,4,44,29,31,0.0,1.0,0,154.0,32.0,33.0,49.2,Matches
+362,363,Adam Masina,ma MAR,DF,Udinese,29.0,1994.0,0.7,2,0,0,3,0,0,0,2,0,0.0,0.0,0,5.0,4.0,1.0,80.0,Matches
+363,364,Adam Masina,ma MAR,DF,Torino,29.0,1994.0,11.4,0,0,0,18,5,0,4,11,12,0.0,1.0,0,49.0,22.0,14.0,61.1,Matches
+364,365,Alan Matturro,uy URU,DF,Genoa,18.0,2004.0,1.2,0,0,0,0,0,0,0,2,1,0.0,0.0,1,6.0,3.0,2.0,60.0,Matches
+365,366,Luca Mazzitelli,it ITA,MF,Frosinone,27.0,1995.0,24.6,6,1,1,45,37,1,42,19,23,0.0,0.0,0,128.0,41.0,38.0,51.9,Matches
+366,367,Pasquale Mazzocchi,it ITA,DF,Salernitana,28.0,1995.0,14.1,4,0,0,23,9,3,42,5,19,0.0,0.0,0,72.0,6.0,26.0,18.8,Matches
+367,368,Pasquale Mazzocchi,it ITA,DF,Napoli,28.0,1995.0,4.8,0,1,0,9,7,0,14,1,2,0.0,0.0,0,21.0,12.0,7.0,63.2,Matches
+368,369,Jordi Mboula,es ESP,FWMF,Hellas Verona,24.0,1999.0,3.4,0,0,0,5,4,2,8,1,4,0.0,0.0,0,6.0,4.0,14.0,22.2,Matches
+369,370,Weston McKennie,us USA,MFDF,Juventus,24.0,1998.0,28.8,6,0,0,23,12,6,59,18,29,0.0,0.0,0,115.0,37.0,34.0,52.1,Matches
+370,371,Arthur Melo,br BRA,MF,Fiorentina,26.0,1996.0,22.1,2,0,0,18,47,0,21,18,30,1.0,0.0,0,141.0,7.0,7.0,50.0,Matches
+371,372,Leonardo Mendicino,it ITA,MF,Atalanta,17.0,2006.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+372,373,Alex Meret,it ITA,GK,Napoli,26.0,1997.0,30.8,0,0,0,0,3,0,0,0,0,0.0,0.0,0,53.0,4.0,1.0,80.0,Matches
+373,374,Junior Messias,br BRA,MFDF,Genoa,32.0,1991.0,11.7,0,0,0,7,22,5,24,5,20,0.0,0.0,0,54.0,15.0,24.0,38.5,Matches
+374,375,Nikola Milenković,rs SRB,DF,Fiorentina,25.0,1997.0,27.9,4,0,0,30,23,0,0,27,21,0.0,1.0,0,108.0,111.0,28.0,79.9,Matches
+375,376,Arkadiusz Milik,pl POL,FW,Juventus,29.0,1994.0,10.2,2,1,0,22,26,11,4,5,5,0.0,0.0,0,31.0,24.0,32.0,42.9,Matches
+376,377,Vanja Milinković-Savić,rs SRB,GK,Torino,26.0,1997.0,36.0,2,0,0,0,2,0,0,1,0,0.0,0.0,0,47.0,9.0,2.0,81.8,Matches
+377,378,Yerry Mina,co COL,DFMF,Fiorentina,28.0,1994.0,0.5,1,0,0,3,2,0,0,0,1,0.0,0.0,0,6.0,1.0,0.0,100.0,Matches
+378,379,Yerry Mina,co COL,DF,Cagliari,28.0,1994.0,13.5,4,0,0,17,18,0,2,4,13,0.0,1.0,0,57.0,35.0,14.0,71.4,Matches
+379,380,Aleksei Miranchuk,ru RUS,MFFW,Atalanta,27.0,1995.0,13.1,1,0,0,12,31,3,83,2,6,0.0,0.0,0,69.0,7.0,11.0,38.9,Matches
+380,381,Kevin Miranda,it ITA,DF,Sassuolo,20.0,2003.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+381,382,Antonio Mirante,it ITA,GK,Milan,40.0,1983.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,2.0,0.0,100.0,Matches
+382,383,Fabio Miretti,it ITA,MF,Juventus,19.0,2003.0,12.3,3,0,0,22,29,1,32,7,14,0.0,0.0,0,73.0,3.0,12.0,20.0,Matches
+383,384,Filippo Missori,it ITA,DF,Sassuolo,19.0,2004.0,3.0,0,0,0,1,2,0,5,4,3,0.0,0.0,0,8.0,6.0,1.0,85.7,Matches
+384,385,Stefan Mitrović,rs SRB,FWMF,Hellas Verona,20.0,2002.0,4.3,0,0,0,10,6,1,15,0,3,0.0,0.0,0,16.0,4.0,18.0,18.2,Matches
+385,386,Henrikh Mkhitaryan,am ARM,MF,Inter,34.0,1989.0,30.9,4,0,0,35,29,3,32,29,34,1.0,0.0,0,182.0,15.0,16.0,48.4,Matches
+386,387,Ilario Monterisi,it ITA,DF,Frosinone,21.0,2001.0,16.3,1,0,0,10,17,1,5,8,13,1.0,1.0,0,77.0,41.0,28.0,59.4,Matches
+387,388,Lorenzo Montipò,it ITA,GK,Hellas Verona,27.0,1996.0,37.0,0,0,0,0,3,0,0,0,1,0.0,0.0,0,49.0,5.0,1.0,83.3,Matches
+388,389,Nikola Moro,hr CRO,MF,Bologna,25.0,1998.0,9.3,0,0,0,11,9,0,13,7,16,0.0,0.0,0,46.0,4.0,13.0,23.5,Matches
+389,390,Dany Mota,pt POR,FWMF,Monza,25.0,1998.0,22.8,3,0,0,22,28,6,89,2,7,2.0,0.0,0,72.0,40.0,48.0,45.5,Matches
+390,391,Samuele Mulattieri,it ITA,FWMF,Sassuolo,22.0,2000.0,5.1,1,0,0,7,5,0,0,1,1,1.0,0.0,0,21.0,23.0,35.0,39.7,Matches
+391,392,Luis Muriel,co COL,FWMF,Atalanta,32.0,1991.0,4.5,0,0,0,6,14,1,31,1,2,0.0,0.0,0,18.0,6.0,7.0,46.2,Matches
+392,393,Yunus Musah,us USA,MFFW,Milan,20.0,2002.0,16.4,5,0,0,22,21,2,28,10,14,0.0,0.0,0,74.0,14.0,18.0,43.8,Matches
+393,394,Juan Musso,ar ARG,GK,Atalanta,29.0,1994.0,11.0,0,0,0,1,0,0,0,0,0,0.0,1.0,0,22.0,2.0,0.0,100.0,Matches
+394,395,Kingstone Mutandwa,zm ZAM,FWMF,Cagliari,20.0,2003.0,0.4,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,3.0,3.0,50.0,Matches
+395,396,Obite N'Dicka,ci CIV,DF,Roma,23.0,1999.0,24.1,6,0,0,26,16,0,11,16,18,0.0,0.0,0,100.0,38.0,27.0,58.5,Matches
+396,397,Nahitan Nández,uy URU,MFDF,Cagliari,27.0,1995.0,26.0,7,0,0,52,32,9,154,19,40,0.0,0.0,0,135.0,37.0,46.0,44.6,Matches
+397,398,Natan,br BRA,DF,Napoli,22.0,2001.0,10.6,3,1,1,13,6,0,5,8,10,0.0,0.0,0,39.0,25.0,23.0,52.1,Matches
+398,399,Lapo Nava,it ITA,GK,Milan,19.0,2004.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+399,400,Michel Ndary Adopo,fr FRA,MF,Atalanta,23.0,2000.0,1.2,0,0,0,2,1,1,1,0,3,0.0,0.0,0,13.0,3.0,1.0,75.0,Matches
+400,401,Dan Ndoye,ch SUI,FWMF,Bologna,22.0,2000.0,19.7,4,0,0,29,57,7,47,10,15,0.0,0.0,0,106.0,7.0,16.0,30.4,Matches
+401,402,Cyril Ngonge,be BEL,FWMF,Hellas Verona,23.0,2000.0,15.9,4,0,0,31,22,3,51,4,9,0.0,0.0,0,55.0,24.0,42.0,36.4,Matches
+402,403,Cyril Ngonge,be BEL,FW,Napoli,23.0,2000.0,3.5,2,0,0,2,10,1,20,0,3,0.0,0.0,0,16.0,4.0,2.0,66.7,Matches
+403,404,M'Baye Niang,sn SEN,FW,Empoli,28.0,1994.0,7.9,1,0,0,15,24,9,4,3,1,0.0,0.0,0,14.0,24.0,38.0,38.7,Matches
+404,405,Hans Nicolussi Caviglia,it ITA,MF,Juventus,23.0,2000.0,3.0,1,0,0,1,10,0,18,0,2,0.0,0.0,0,18.0,2.0,2.0,50.0,Matches
+405,406,Joseph Nonge,be BEL,MF,Juventus,18.0,2005.0,0.3,1,0,0,3,1,0,0,0,0,0.0,1.0,0,1.0,1.0,0.0,100.0,Matches
+406,407,Tijjani Noslin,nl NED,FWMF,Hellas Verona,24.0,1999.0,14.9,2,0,0,24,10,4,15,2,8,2.0,0.0,0,65.0,49.0,71.0,40.8,Matches
+407,408,Simeon Nwankwo,ng NGA,FW,Salernitana,31.0,1992.0,7.6,0,0,0,11,17,2,0,0,3,0.0,0.0,0,13.0,24.0,41.0,36.9,Matches
+408,409,M'Bala Nzola,ao ANG,FW,Fiorentina,26.0,1996.0,17.2,2,0,0,37,7,21,6,0,8,1.0,0.0,0,49.0,53.0,70.0,43.1,Matches
+409,410,Adam Obert,sk SVK,DF,Cagliari,20.0,2002.0,10.5,1,0,0,14,4,0,15,21,9,0.0,0.0,0,54.0,14.0,18.0,43.8,Matches
+410,411,Pedro Obiang,gq EQG,MF,Sassuolo,31.0,1992.0,5.0,1,0,0,9,3,0,1,8,4,0.0,0.0,0,20.0,5.0,4.0,55.6,Matches
+411,412,Guillermo Ochoa,mx MEX,GK,Salernitana,38.0,1985.0,21.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,18.0,2.0,0.0,100.0,Matches
+412,413,Jens Odgaard,dk DEN,FWMF,Bologna,24.0,1999.0,4.8,1,0,0,14,11,7,8,1,4,0.0,0.0,0,15.0,12.0,15.0,44.4,Matches
+413,414,Noah Okafor,ch SUI,FWMF,Milan,23.0,2000.0,9.9,1,0,0,12,9,2,22,0,4,0.0,0.0,0,27.0,7.0,13.0,35.0,Matches
+414,415,David Okereke,ng NGA,FWMF,Torino,25.0,1997.0,2.8,0,0,0,2,3,2,4,1,1,0.0,0.0,0,9.0,7.0,9.0,43.8,Matches
+415,416,Caleb Okoli,it ITA,DF,Frosinone,22.0,2001.0,32.4,9,0,0,27,26,0,2,29,34,0.0,2.0,0,164.0,74.0,59.0,55.6,Matches
+416,417,Maduka Okoye,ng NGA,GK,Udinese,23.0,1999.0,21.0,2,0,0,1,4,0,0,1,0,0.0,1.0,0,17.0,6.0,1.0,85.7,Matches
+417,418,Mathías Olivera,uy URU,DF,Napoli,25.0,1997.0,17.4,3,0,0,9,17,1,27,20,29,0.0,0.0,0,101.0,37.0,30.0,55.2,Matches
+418,419,Gaetano Oristanio,it ITA,FWMF,Cagliari,20.0,2002.0,12.3,1,0,0,37,28,2,32,9,10,0.0,0.0,0,67.0,17.0,22.0,43.6,Matches
+419,420,Riccardo Orsolini,it ITA,FWMF,Bologna,26.0,1997.0,19.9,2,0,0,17,41,14,100,8,14,0.0,0.0,0,69.0,16.0,17.0,48.5,Matches
+420,421,Victor Osimhen,ng NGA,FW,Napoli,24.0,1998.0,22.0,6,1,1,31,31,35,14,2,5,3.0,0.0,0,40.0,37.0,47.0,44.0,Matches
+421,422,Remi Oudin,fr FRA,MFFW,Lecce,26.0,1996.0,20.2,3,0,0,16,11,3,156,20,14,0.0,0.0,0,96.0,12.0,12.0,50.0,Matches
+422,423,Anthony Oyono,ga GAB,DF,Frosinone,22.0,2001.0,13.3,4,0,0,13,11,0,11,9,26,0.0,0.0,0,73.0,13.0,9.0,59.1,Matches
+423,424,Simone Pafundi,it ITA,MF,Udinese,17.0,2006.0,0.1,0,0,0,1,0,0,1,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches
+424,425,Riccardo Pagano,it ITA,MFDF,Roma,18.0,2004.0,0.6,0,0,0,3,0,0,1,0,2,0.0,0.0,0,3.0,0.0,1.0,0.0,Matches
+425,426,Christos Papadopoulos,gr GRE,FW,Genoa,18.0,2004.0,0.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+426,427,Leandro Paredes,ar ARG,MF,Roma,29.0,1994.0,29.3,15,1,0,31,35,0,82,29,36,0.0,1.0,0,184.0,14.0,3.0,82.4,Matches
+427,428,Fabiano Parisi,it ITA,DF,Fiorentina,22.0,2000.0,16.2,4,0,0,14,38,0,42,17,15,0.0,3.0,0,124.0,24.0,20.0,54.5,Matches
+428,429,Mario Pašalić,hr CRO,MF,Atalanta,28.0,1995.0,22.8,3,0,0,20,7,6,10,16,17,0.0,0.0,0,124.0,36.0,31.0,53.7,Matches
+429,430,Triantafyllos Pasaridīs,gr GRE,DF,Salernitana,27.0,1996.0,5.0,3,0,0,9,3,0,0,3,7,0.0,0.0,0,12.0,7.0,13.0,35.0,Matches
+430,431,Patric,es ESP,DF,Lazio,30.0,1993.0,17.9,4,0,0,8,6,0,11,6,8,0.0,0.0,0,71.0,9.0,17.0,34.6,Matches
+431,432,Rui Patrício,pt POR,GK,Roma,35.0,1988.0,23.0,1,0,0,1,1,0,0,0,0,0.0,1.0,0,12.0,2.0,0.0,100.0,Matches
+432,433,Benjamin Pavard,fr FRA,DF,Inter,27.0,1996.0,18.6,6,0,0,23,15,2,24,32,21,0.0,0.0,0,68.0,35.0,27.0,56.5,Matches
+433,434,Leonardo Pavoletti,it ITA,FW,Cagliari,34.0,1988.0,7.0,4,0,0,19,7,1,1,0,1,1.0,0.0,0,12.0,57.0,41.0,58.2,Matches
+434,435,Martín Payero,ar ARG,MF,Udinese,24.0,1998.0,20.0,6,1,0,45,28,1,20,15,32,1.0,0.0,0,110.0,20.0,19.0,51.3,Matches
+435,436,Marcus Pedersen,no NOR,DF,Sassuolo,23.0,2000.0,17.9,4,0,0,13,9,0,57,10,24,0.0,0.0,0,56.0,9.0,18.0,33.3,Matches
+436,437,Pedro,es ESP,FWMF,Lazio,36.0,1987.0,9.1,4,0,0,13,19,4,20,3,12,0.0,0.0,0,49.0,2.0,10.0,16.7,Matches
+437,438,Pietro Pellegri,it ITA,FW,Torino,22.0,2001.0,8.4,3,0,0,16,22,6,5,2,1,0.0,0.0,0,22.0,23.0,38.0,37.7,Matches
+438,439,Lorenzo Pellegrini,it ITA,MF,Roma,27.0,1996.0,20.7,7,0,0,26,35,3,76,20,20,1.0,0.0,0,97.0,12.0,17.0,41.4,Matches
+439,440,Luca Pellegrini,it ITA,DF,Lazio,24.0,1999.0,8.7,7,1,1,19,13,0,28,9,13,0.0,0.0,0,50.0,13.0,7.0,65.0,Matches
+440,441,Marco Pellegrino,,DF,Salernitana,,,6.1,1,0,0,3,1,0,1,10,6,0.0,1.0,0,15.0,9.0,18.0,33.3,Matches
+441,442,Marco Pellegrino,,DF,Milan,,,0.8,0,0,0,0,0,0,0,1,1,0.0,0.0,0,5.0,1.0,1.0,50.0,Matches
+442,443,Pepín,gq EQG,MFFW,Monza,26.0,1996.0,2.7,2,0,0,2,6,0,4,0,1,0.0,0.0,0,15.0,0.0,2.0,0.0,Matches
+443,444,Pedro Pereira,pt POR,DF,Monza,25.0,1998.0,9.3,3,0,0,11,3,1,37,4,13,0.0,0.0,0,41.0,5.0,6.0,45.5,Matches
+444,445,Roberto Pereyra,ar ARG,FWMF,Udinese,32.0,1991.0,20.6,6,0,0,24,32,5,24,7,9,1.0,0.0,0,100.0,4.0,8.0,33.3,Matches
+445,446,Nehuén Pérez,ar ARG,DF,Udinese,23.0,2000.0,36.0,9,1,1,34,17,0,19,45,48,0.0,1.0,0,164.0,81.0,44.0,64.8,Matches
+446,447,Simone Perilli,it ITA,GK,Hellas Verona,28.0,1995.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,,Matches
+447,448,Mattia Perin,it ITA,GK,Juventus,30.0,1992.0,2.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,,Matches
+448,449,Samuele Perisan,it ITA,GK,Empoli,25.0,1997.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+449,450,Matteo Pessina,it ITA,MF,Monza,26.0,1997.0,35.8,5,1,1,28,44,1,19,27,25,0.0,1.0,0,188.0,32.0,33.0,49.2,Matches
+450,451,Andrea Petagna,it ITA,FW,Cagliari,28.0,1995.0,11.1,2,0,0,18,22,2,2,1,2,0.0,1.0,0,25.0,26.0,30.0,46.4,Matches
+451,452,Giuseppe Pezzella,it ITA,DF,Empoli,25.0,1997.0,12.1,4,0,0,17,17,2,54,2,14,0.0,1.0,0,56.0,13.0,5.0,72.2,Matches
+452,453,Roberto Piccoli,it ITA,FW,Empoli,22.0,2001.0,0.4,0,0,0,1,1,0,0,0,1,0.0,0.0,0,1.0,1.0,2.0,33.3,Matches
+453,454,Roberto Piccoli,it ITA,FW,Lecce,22.0,2001.0,15.3,5,0,0,28,13,15,6,4,6,0.0,0.0,0,38.0,53.0,84.0,38.7,Matches
+454,455,Santiago Pierotti,ar ARG,MFFW,Lecce,22.0,2001.0,2.2,0,0,0,13,3,0,4,1,8,0.0,0.0,0,8.0,2.0,9.0,18.2,Matches
+455,456,Niccolò Pierozzi,it ITA,DF,Salernitana,21.0,2001.0,9.7,6,0,0,28,10,0,6,11,11,1.0,0.0,0,36.0,17.0,9.0,65.4,Matches
+456,457,Andrea Pinamonti,it ITA,FW,Sassuolo,24.0,1999.0,34.2,4,0,0,22,51,9,10,1,8,1.0,0.0,0,69.0,79.0,159.0,33.2,Matches
+457,458,Carlo Pinsoglio,it ITA,GK,Juventus,33.0,1990.0,0.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+458,459,Lorenzo Pirola,it ITA,DF,Salernitana,21.0,2002.0,22.1,4,0,0,33,16,1,2,25,23,0.0,2.0,0,81.0,58.0,35.0,62.4,Matches
+459,460,Niccolò Pisilli,it ITA,MF,Roma,18.0,2004.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+460,461,Tommaso Pobega,it ITA,MF,Milan,24.0,1999.0,3.5,0,0,0,8,7,0,0,6,9,0.0,0.0,0,24.0,2.0,2.0,50.0,Matches
+461,462,Paul Pogba,fr FRA,MF,Juventus,30.0,1993.0,0.6,0,0,0,3,1,0,1,1,1,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches
+462,463,Matteo Politano,it ITA,FW,Napoli,29.0,1993.0,26.2,2,1,0,11,38,2,135,15,8,1.0,0.0,0,91.0,3.0,12.0,20.0,Matches
+463,464,Marin Pongračić,hr CRO,DF,Lecce,25.0,1997.0,35.8,10,1,1,57,22,0,1,51,30,0.0,0.0,0,183.0,59.0,38.0,60.8,Matches
+464,465,Stefan Posch,at AUT,DF,Bologna,26.0,1997.0,26.8,7,0,0,30,13,1,39,18,46,0.0,0.0,0,109.0,34.0,29.0,54.0,Matches
+465,466,Matteo Prati,it ITA,MF,Cagliari,19.0,2003.0,21.9,4,0,0,19,6,0,15,15,25,0.0,0.0,0,115.0,9.0,13.0,40.9,Matches
+466,467,Ivan Provedel,it ITA,GK,Lazio,29.0,1994.0,30.0,0,0,0,0,7,0,0,0,0,0.0,0.0,0,36.0,3.0,0.0,100.0,Matches
+467,468,Christian Pulisic,us USA,FWMF,Milan,24.0,1998.0,28.9,2,0,0,19,45,4,101,10,26,1.0,0.0,0,100.0,16.0,26.0,38.1,Matches
+468,469,George Pușcaș,ro ROU,FW,Genoa,27.0,1996.0,2.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,9.0,12.0,8.0,60.0,Matches
+469,470,Domingos Quina,pt POR,MF,Udinese,23.0,1999.0,0.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches
+470,471,Adrien Rabiot,fr FRA,MF,Juventus,28.0,1995.0,29.5,8,0,0,44,38,6,45,25,39,0.0,0.0,0,150.0,54.0,40.0,57.4,Matches
+471,472,Uroš Račić,rs SRB,MF,Sassuolo,25.0,1998.0,9.1,1,0,0,6,12,0,2,7,4,0.0,0.0,0,50.0,12.0,13.0,48.0,Matches
+472,473,Nemanja Radonjić,rs SRB,MFFW,Torino,27.0,1996.0,4.2,1,0,0,1,5,4,11,0,1,0.0,0.0,0,13.0,0.0,5.0,0.0,Matches
+473,474,Boris Radunović,rs SRB,GK,Cagliari,27.0,1996.0,7.0,0,0,0,0,2,0,0,1,0,0.0,0.0,0,6.0,1.0,1.0,50.0,Matches
+474,475,Hamza Rafia,tn TUN,MF,Lecce,24.0,1999.0,13.4,4,0,0,31,34,2,38,11,31,0.0,0.0,1,70.0,9.0,20.0,31.0,Matches
+475,476,Ylber Ramadani,al ALB,MF,Lecce,27.0,1996.0,33.0,13,0,0,42,37,0,14,44,41,0.0,1.0,0,225.0,29.0,27.0,51.8,Matches
+476,477,Luca Ranieri,it ITA,DF,Fiorentina,24.0,1999.0,22.9,14,0,0,32,11,1,13,29,10,0.0,0.0,0,99.0,40.0,38.0,51.3,Matches
+477,478,Filippo Ranocchia,it ITA,MFDF,Empoli,22.0,2001.0,5.3,3,0,0,11,8,0,10,3,11,0.0,0.0,0,16.0,6.0,4.0,60.0,Matches
+478,479,Giacomo Raspadori,it ITA,FWMF,Napoli,23.0,2000.0,17.6,0,0,0,17,19,5,65,3,10,0.0,0.0,0,53.0,7.0,18.0,28.0,Matches
+479,480,Federico Ravaglia,it ITA,GK,Bologna,23.0,1999.0,5.9,0,0,0,0,0,0,0,0,0,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches
+480,481,Tijjani Reijnders,nl NED,MF,Milan,25.0,1998.0,31.3,8,0,0,21,20,1,39,18,25,0.0,0.0,0,136.0,8.0,18.0,30.8,Matches
+481,482,Reinier,br BRA,MFFW,Frosinone,21.0,2002.0,11.8,3,0,0,17,9,1,13,10,10,0.0,0.0,0,54.0,9.0,18.0,33.3,Matches
+482,483,Mateo Retegui,it ITA,FW,Genoa,24.0,1999.0,24.6,5,0,0,36,25,4,20,0,9,0.0,0.0,0,58.0,60.0,61.0,49.6,Matches
+483,484,Samuele Ricci,it ITA,MF,Torino,21.0,2001.0,26.6,8,1,1,37,46,3,54,27,18,1.0,0.0,0,125.0,17.0,25.0,40.5,Matches
+484,485,Ricardo Rodríguez,ch SUI,DF,Torino,30.0,1992.0,30.8,4,0,0,25,9,1,57,24,26,0.0,0.0,0,112.0,41.0,29.0,58.6,Matches
+485,486,Alessio Romagnoli,it ITA,DF,Lazio,28.0,1995.0,26.8,9,0,0,34,19,1,1,29,18,0.0,0.0,0,120.0,76.0,54.0,58.5,Matches
+486,487,Simone Romagnoli,it ITA,DF,Frosinone,33.0,1990.0,30.2,6,0,0,24,7,0,1,29,15,0.0,0.0,0,99.0,97.0,78.0,55.4,Matches
+487,488,Luka Romero,ar ARG,FWMF,Milan,18.0,2004.0,1.0,1,0,0,3,2,0,2,0,0,0.0,0.0,0,5.0,1.0,1.0,50.0,Matches
+488,489,Marten de Roon,nl NED,MFDF,Atalanta,32.0,1991.0,28.9,10,0,0,43,24,3,16,40,43,0.0,1.0,0,164.0,35.0,27.0,56.5,Matches
+489,490,Francesco Rossi,it ITA,GK,Atalanta,32.0,1991.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+490,491,Nicolò Rovella,it ITA,MF,Lazio,21.0,2001.0,14.6,6,0,0,38,16,0,20,23,28,0.0,0.0,0,99.0,11.0,9.0,55.0,Matches
+491,492,Amir Rrahmani,xk KVX,DF,Napoli,29.0,1994.0,28.9,5,0,0,19,7,2,4,20,27,0.0,1.0,0,140.0,79.0,46.0,63.2,Matches
+492,493,Ruan,br BRA,DF,Sassuolo,24.0,1999.0,16.8,7,1,1,23,12,0,2,24,15,1.0,1.0,0,80.0,34.0,27.0,55.7,Matches
+493,494,Daniele Rugani,it ITA,DF,Juventus,29.0,1994.0,13.2,2,0,0,15,3,0,1,9,9,0.0,0.0,0,44.0,25.0,24.0,51.0,Matches
+494,495,Matteo Ruggeri,it ITA,DF,Atalanta,21.0,2002.0,27.2,3,0,0,21,9,2,101,23,15,0.0,1.0,0,171.0,49.0,36.0,57.6,Matches
+495,496,Mário Rui,pt POR,DF,Napoli,32.0,1991.0,13.4,7,1,1,16,28,1,62,15,15,0.0,1.0,0,57.0,10.0,27.0,27.0,Matches
+496,497,Stefano Sabelli,it ITA,DF,Genoa,30.0,1993.0,27.0,5,0,0,36,36,4,99,23,24,0.0,0.0,0,91.0,16.0,22.0,42.1,Matches
+497,498,Alexis Saelemaekers,be BEL,FWMF,Bologna,24.0,1999.0,21.0,7,1,1,16,58,2,86,13,22,1.0,0.0,0,112.0,8.0,7.0,53.3,Matches
+498,499,Lazar Samardzic,rs SRB,MF,Udinese,21.0,2002.0,26.4,3,0,0,29,18,0,124,10,19,0.0,1.0,0,142.0,14.0,35.0,28.6,Matches
+499,500,Junior Sambia,fr FRA,DFMF,Salernitana,26.0,1996.0,11.5,4,0,0,9,15,0,28,11,5,0.0,1.0,0,38.0,23.0,12.0,65.7,Matches
+500,501,Antonio Sanabria,py PAR,FWMF,Torino,27.0,1996.0,23.7,2,0,0,25,33,3,6,6,15,0.0,0.0,0,68.0,62.0,73.0,45.9,Matches
+501,502,Renato Sanches,pt POR,MF,Roma,25.0,1997.0,1.6,2,0,0,6,3,0,4,0,1,0.0,1.0,0,5.0,1.0,2.0,33.3,Matches
+502,503,Alexis Sánchez,cl CHI,FWMF,Inter,34.0,1988.0,8.5,0,0,0,14,19,8,31,1,6,0.0,0.0,0,28.0,8.0,13.0,38.1,Matches
+503,504,Alex Sandro,br BRA,DF,Juventus,32.0,1991.0,8.0,1,0,0,17,12,0,5,15,7,0.0,0.0,0,34.0,12.0,9.0,57.1,Matches
+504,505,Nicola Sansone,it ITA,FWMF,Lecce,31.0,1991.0,8.5,4,0,0,16,12,0,28,4,6,0.0,0.0,0,37.0,9.0,13.0,40.9,Matches
+505,506,Riccardo Saponara,it ITA,FWMF,Hellas Verona,31.0,1991.0,3.8,0,0,0,1,3,2,8,0,1,0.0,0.0,0,16.0,1.0,5.0,16.7,Matches
+506,507,Zanos Savva,cy CYP,DFMF,Torino,17.0,2005.0,0.3,0,0,0,1,1,0,0,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches
+507,508,Saba Sazonov,ge GEO,DF,Torino,21.0,2002.0,4.0,2,0,0,10,1,0,0,3,7,0.0,1.0,0,22.0,10.0,10.0,50.0,Matches
+508,509,Giorgio Scalvini,it ITA,DF,Atalanta,19.0,2003.0,28.3,3,0,0,48,11,4,5,59,33,0.0,2.0,0,163.0,80.0,40.0,66.7,Matches
+509,510,Gianluca Scamacca,it ITA,FW,Atalanta,24.0,1999.0,16.1,1,0,0,28,28,9,6,4,9,0.0,0.0,0,32.0,21.0,34.0,38.2,Matches
+510,511,Perr Schuurs,nl NED,DF,Torino,23.0,1999.0,8.6,2,0,0,8,1,0,2,9,12,0.0,1.0,0,49.0,15.0,9.0,62.5,Matches
+511,512,Simone Scuffet,it ITA,GK,Cagliari,27.0,1996.0,31.0,3,0,0,0,4,0,0,1,0,0.0,0.0,0,38.0,4.0,0.0,100.0,Matches
+512,513,Demba Seck,sn SEN,MF,Torino,22.0,2001.0,4.7,1,0,0,9,8,0,2,1,3,0.0,0.0,0,22.0,3.0,10.0,23.1,Matches
+513,514,Demba Seck,sn SEN,FWMF,Frosinone,22.0,2001.0,3.3,0,0,0,9,7,2,2,1,4,0.0,0.0,0,9.0,3.0,7.0,30.0,Matches
+514,515,Nikola Sekulov,it ITA,FW,Juventus,21.0,2002.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches
+515,516,Vivaldo Semedo,pt POR,FW,Udinese,18.0,2005.0,0.1,0,0,0,1,2,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+516,517,Stefano Sensi,it ITA,MF,Inter,27.0,1995.0,0.5,0,0,0,0,1,0,1,1,1,0.0,0.0,0,3.0,0.0,0.0,,Matches
+517,518,Suat Serdar,de GER,MF,Hellas Verona,26.0,1997.0,18.4,7,0,0,40,18,0,9,20,39,0.0,0.0,0,109.0,22.0,21.0,51.2,Matches
+518,519,Andres Sfait,ro ROU,DFMF,Salernitana,18.0,2004.0,0.3,0,0,0,0,0,0,1,0,1,0.0,0.0,0,1.0,0.0,0.0,,Matches
+519,520,Stephan El Shaarawy,it ITA,FWDF,Roma,30.0,1992.0,19.3,2,0,0,14,28,8,17,13,13,0.0,0.0,0,83.0,9.0,15.0,37.5,Matches
+520,521,Eldor Shomurodov,uz UZB,FWMF,Cagliari,28.0,1995.0,10.4,1,0,0,11,11,2,7,4,4,0.0,0.0,0,38.0,21.0,44.0,32.3,Matches
+521,522,Steven Shpendi,al ALB,FWMF,Empoli,20.0,2003.0,4.6,0,0,0,12,13,4,0,1,0,0.0,0.0,0,13.0,3.0,18.0,14.3,Matches
+522,523,Marco Silvestri,it ITA,GK,Udinese,32.0,1991.0,17.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,20.0,2.0,3.0,40.0,Matches
+523,524,Giovanni Simeone,ar ARG,FW,Napoli,28.0,1995.0,8.9,3,0,0,12,13,6,6,1,4,1.0,0.0,0,21.0,21.0,22.0,48.8,Matches
+524,525,Jan-Carlo Simic,rs SRB,DF,Milan,18.0,2005.0,1.6,0,0,0,2,0,0,0,0,1,0.0,0.0,0,4.0,2.0,2.0,50.0,Matches
+525,526,Leo Skiri Østigård,no NOR,DF,Napoli,23.0,1999.0,18.1,3,0,0,12,12,1,2,16,12,0.0,0.0,0,78.0,58.0,25.0,69.9,Matches
+526,527,Łukasz Skorupski,pl POL,GK,Bologna,32.0,1991.0,32.0,2,0,0,0,4,0,0,1,2,0.0,0.0,0,34.0,1.0,2.0,33.3,Matches
+527,528,Chris Smalling,eng ENG,DF,Roma,33.0,1989.0,4.3,0,0,0,1,3,0,0,5,1,0.0,0.0,0,22.0,22.0,7.0,75.9,Matches
+528,529,Andrea Sodero,it ITA,MF,Empoli,18.0,2004.0,0.1,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+529,530,Ola Solbakken,no NOR,FW,Roma,24.0,1998.0,0.3,0,0,0,0,0,0,1,0,0,0.0,0.0,0,1.0,0.0,2.0,0.0,Matches
+530,531,Daniele Sommariva,it ITA,GK,Genoa,26.0,1997.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches
+531,532,Yann Sommer,ch SUI,GK,Inter,34.0,1988.0,34.0,1,0,0,1,1,0,0,0,1,0.0,1.0,0,43.0,3.0,1.0,75.0,Matches
+532,533,Brandon Soppy,fr FRA,DF,Torino,21.0,2002.0,2.0,0,0,0,4,6,0,3,0,2,0.0,0.0,0,14.0,0.0,1.0,0.0,Matches
+533,534,Alessandro Sorrentino,it ITA,GK,Monza,21.0,2002.0,6.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,4.0,0.0,0.0,,Matches
+534,535,Riccardo Sottil,it ITA,FW,Fiorentina,24.0,1999.0,12.3,1,0,0,8,34,6,46,2,5,0.0,0.0,0,44.0,7.0,3.0,70.0,Matches
+535,536,Matìas Soulé,ar ARG,FWMF,Frosinone,20.0,2003.0,34.7,4,0,0,18,47,1,98,18,27,0.0,1.0,1,175.0,11.0,44.0,20.0,Matches
+536,537,Djed Spence,eng ENG,DF,Genoa,22.0,2000.0,9.5,1,0,0,7,9,1,12,8,10,0.0,0.0,0,46.0,12.0,14.0,46.2,Matches
+537,538,Leonardo Spinazzola,it ITA,DF,Roma,30.0,1993.0,14.6,0,0,0,8,6,1,84,3,7,0.0,0.0,0,74.0,6.0,6.0,50.0,Matches
+538,539,Marco Sportiello,it ITA,GK,Milan,31.0,1992.0,7.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,18.0,0.0,0.0,,Matches
+539,540,Trivante Stewart,jm JAM,FWMF,Salernitana,23.0,2000.0,1.1,0,0,0,1,0,0,2,0,0,0.0,0.0,0,3.0,2.0,6.0,25.0,Matches
+540,541,Gabriel Strefezza,br BRA,FW,Lecce,26.0,1997.0,12.4,4,0,0,20,37,3,42,7,17,0.0,0.0,0,51.0,4.0,14.0,22.2,Matches
+541,542,Kevin Strootman,nl NED,MF,Genoa,33.0,1990.0,13.4,4,0,0,16,6,0,20,7,19,0.0,0.0,0,73.0,7.0,11.0,38.9,Matches
+542,543,Isaac Success,ng NGA,FWMF,Udinese,27.0,1996.0,9.8,4,0,0,27,34,1,2,2,4,0.0,0.0,0,24.0,27.0,31.0,46.6,Matches
+543,544,Ibrahim Sulemana,gh GHA,MF,Cagliari,20.0,2003.0,14.9,4,0,0,18,11,1,13,7,14,0.0,0.0,0,85.0,13.0,19.0,40.6,Matches
+544,545,Tomáš Suslov,sk SVK,MFFW,Hellas Verona,21.0,2002.0,23.2,7,0,0,40,56,1,72,6,30,0.0,0.0,0,104.0,5.0,12.0,29.4,Matches
+545,546,Mile Svilar,rs SRB,GK,Roma,23.0,1999.0,15.0,1,0,0,0,4,0,0,0,0,0.0,0.0,0,19.0,5.0,0.0,100.0,Matches
+546,547,Karol Świderski,pl POL,FWMF,Hellas Verona,26.0,1997.0,5.6,0,0,0,6,13,0,3,1,3,0.0,0.0,0,22.0,10.0,25.0,28.6,Matches
+547,548,Wojciech Szczęsny,pl POL,GK,Juventus,33.0,1990.0,35.0,1,0,0,1,2,0,0,1,0,0.0,1.0,0,38.0,3.0,1.0,75.0,Matches
+548,549,Przemysław Szymiński,pl POL,MF,Frosinone,29.0,1994.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches
+549,550,Adrien Tameze,cm CMR,DFMF,Torino,29.0,1994.0,23.8,6,1,0,19,15,0,15,47,16,0.0,1.0,0,140.0,30.0,39.0,43.5,Matches
+550,551,Elayis Tavsan,nl NED,MFFW,Hellas Verona,22.0,2001.0,0.6,0,0,0,1,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches
+551,552,Loum Tchaouna,fr FRA,FWMF,Salernitana,19.0,2003.0,23.3,4,0,0,15,30,6,70,4,10,0.0,0.0,0,69.0,27.0,66.0,29.0,Matches
+552,553,Jackson Tchatchoua,cm CMR,DF,Hellas Verona,21.0,2001.0,19.2,2,0,0,18,7,2,64,23,26,0.0,1.0,0,84.0,13.0,13.0,50.0,Matches
+553,554,Filippo Terracciano,it ITA,DF,Hellas Verona,20.0,2003.0,14.4,1,0,0,15,32,0,59,20,19,0.0,0.0,0,74.0,19.0,18.0,51.4,Matches
+554,555,Filippo Terracciano,it ITA,DFFW,Milan,20.0,2003.0,0.8,1,0,0,3,1,0,0,0,2,0.0,1.0,0,6.0,0.0,0.0,,Matches
+555,556,Pietro Terracciano,it ITA,GK,Fiorentina,33.0,1990.0,33.0,3,0,0,2,2,0,0,0,1,0.0,2.0,0,44.0,1.0,0.0,100.0,Matches
+556,557,Florian Thauvin,fr FRA,FW,Udinese,30.0,1993.0,19.0,4,0,0,14,26,6,79,3,4,0.0,0.0,0,64.0,10.0,26.0,27.8,Matches
+557,558,Malick Thiaw,de GER,DF,Milan,21.0,2001.0,18.0,5,1,0,31,7,0,0,13,17,0.0,1.0,1,76.0,37.0,21.0,63.8,Matches
+558,559,Morten Thorsby,no NOR,MF,Genoa,27.0,1996.0,12.9,2,0,0,28,7,6,9,4,11,0.0,0.0,0,41.0,67.0,56.0,54.5,Matches
+559,560,Kristian Thorstvedt,no NOR,MF,Sassuolo,24.0,1999.0,26.6,7,0,0,36,39,1,26,21,22,0.0,0.0,0,112.0,55.0,68.0,44.7,Matches
+560,561,Marcus Thuram,fr FRA,FW,Inter,25.0,1997.0,29.9,3,0,0,35,45,20,21,4,15,5.0,0.0,0,66.0,70.0,42.0,62.5,Matches
+561,562,Antonio Tikvić,hr CRO,DF,Udinese,19.0,2004.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+562,563,Jeremy Toljan,de GER,DF,Sassuolo,28.0,1994.0,23.1,1,0,0,10,7,0,50,16,10,1.0,1.0,0,103.0,9.0,16.0,36.0,Matches
+563,564,Rafael Tolói,it ITA,DF,Atalanta,32.0,1990.0,10.7,6,1,1,17,4,0,8,13,9,0.0,0.0,0,58.0,17.0,14.0,54.8,Matches
+564,565,Fikayo Tomori,eng ENG,DF,Milan,25.0,1997.0,23.6,8,1,1,26,9,1,3,26,24,0.0,1.0,0,105.0,29.0,26.0,52.7,Matches
+565,566,Ahmed Touba,dz ALG,DF,Lecce,25.0,1998.0,3.1,1,0,0,6,1,0,0,7,4,0.0,0.0,0,16.0,5.0,6.0,45.5,Matches
+566,567,Chaka Traorè,ci CIV,FW,Milan,18.0,2004.0,0.2,0,0,0,1,0,0,0,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches
+567,568,Stefano Turati,it ITA,GK,Frosinone,21.0,2001.0,30.5,0,0,0,0,3,0,0,0,0,0.0,0.0,0,34.0,2.0,1.0,66.7,Matches
+568,569,Kacper Urbanski,pl POL,MFFW,Bologna,18.0,2004.0,10.3,2,0,0,11,11,3,22,4,10,0.0,0.0,0,30.0,22.0,12.0,64.7,Matches
+569,570,Emanuele Valeri,it ITA,DF,Frosinone,24.0,1998.0,13.1,3,0,0,12,8,0,73,9,16,1.0,0.0,0,62.0,9.0,9.0,50.0,Matches
+570,571,Johan Vásquez,mx MEX,DF,Genoa,24.0,1998.0,31.7,6,0,0,36,38,4,30,45,33,0.0,1.0,0,101.0,77.0,55.0,58.3,Matches
+571,572,Matías Vecino,uy URU,MF,Lazio,31.0,1991.0,12.8,8,0,0,32,7,2,5,12,17,0.0,0.0,0,66.0,34.0,36.0,48.6,Matches
+572,573,Lorenzo Venuti,it ITA,DF,Lecce,28.0,1995.0,4.0,1,0,0,5,1,0,10,5,4,0.0,1.0,0,21.0,2.0,3.0,40.0,Matches
+573,574,Simone Verdi,it ITA,FW,Torino,31.0,1992.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches
+574,575,Emanuel Vignato,it ITA,MFFW,Salernitana,22.0,2000.0,3.5,1,0,0,3,1,1,2,1,7,0.0,0.0,0,12.0,0.0,4.0,0.0,Matches
+575,576,Samuele Vignato,it ITA,MFFW,Monza,19.0,2004.0,3.8,2,0,0,4,4,1,8,1,4,0.0,0.0,0,13.0,1.0,5.0,16.7,Matches
+576,577,Matías Viña,uy URU,DF,Sassuolo,25.0,1997.0,11.3,1,0,0,12,9,0,29,9,21,0.0,0.0,2,45.0,11.0,15.0,42.3,Matches
+577,578,Rúben Vinagre,pt POR,DFFW,Hellas Verona,24.0,1999.0,3.1,0,0,0,5,2,0,16,1,2,0.0,0.0,0,19.0,1.0,5.0,16.7,Matches
+578,579,Nicolas Viola,it ITA,MFFW,Cagliari,33.0,1989.0,13.4,3,0,0,16,25,2,134,2,9,0.0,1.0,0,49.0,18.0,32.0,36.0,Matches
+579,580,Mattia Viti,it ITA,DF,Sassuolo,21.0,2002.0,10.9,0,0,0,9,14,0,1,10,15,0.0,1.0,1,45.0,13.0,10.0,56.5,Matches
+580,581,Vitinha,pt POR,FWMF,Genoa,23.0,2000.0,3.2,2,0,0,10,8,2,9,0,2,0.0,0.0,0,13.0,7.0,16.0,30.4,Matches
+581,582,Dušan Vlahović,rs SRB,FW,Juventus,23.0,2000.0,25.6,8,1,1,31,34,13,7,1,5,0.0,0.0,0,60.0,37.0,53.0,41.1,Matches
+582,583,Nikola Vlašić,hr CRO,MFFW,Torino,25.0,1997.0,29.0,3,0,0,26,37,9,37,11,16,0.0,0.0,0,152.0,25.0,37.0,40.3,Matches
+583,584,Alessandro Vogliacco,it ITA,DF,Genoa,24.0,1998.0,13.0,4,0,0,13,4,1,12,30,15,1.0,0.0,0,52.0,25.0,21.0,54.3,Matches
+584,585,Mërgim Vojvoda,xk KVX,DF,Torino,28.0,1995.0,15.3,3,0,0,12,4,4,64,13,8,0.0,0.0,0,65.0,5.0,10.0,33.3,Matches
+585,586,Cristian Volpato,it ITA,MFFW,Sassuolo,19.0,2003.0,7.2,1,0,0,15,9,1,47,1,8,0.0,0.0,0,45.0,7.0,7.0,50.0,Matches
+586,587,Stefan de Vrij,nl NED,DF,Inter,31.0,1992.0,17.6,0,0,0,8,2,0,0,24,13,0.0,0.0,0,85.0,46.0,25.0,64.8,Matches
+587,588,Walace,br BRA,MF,Udinese,28.0,1995.0,36.0,7,0,0,42,46,0,12,43,43,0.0,0.0,0,276.0,29.0,19.0,60.4,Matches
+588,589,Sebastian Walukiewicz,pl POL,DF,Empoli,23.0,2000.0,22.8,6,0,0,23,7,2,1,15,28,0.0,2.0,0,85.0,39.0,49.0,44.3,Matches
+589,590,Timothy Weah,us USA,DFFW,Juventus,23.0,2000.0,14.0,5,0,0,15,8,2,38,5,20,0.0,0.0,0,58.0,10.0,13.0,43.5,Matches
+590,591,Shon Weissman,il ISR,FWDF,Salernitana,27.0,1996.0,5.5,0,0,0,3,10,0,0,3,3,0.0,0.0,0,13.0,6.0,15.0,28.6,Matches
+591,592,Mateusz Wieteska,pl POL,DF,Cagliari,26.0,1997.0,10.7,5,1,1,12,6,0,4,14,11,0.0,0.0,0,47.0,27.0,18.0,60.0,Matches
+592,593,Kenan Yıldız,tr TUR,FWDF,Juventus,18.0,2005.0,10.6,3,0,0,12,22,1,17,1,9,0.0,0.0,0,40.0,16.0,23.0,41.0,Matches
+593,594,Mattia Zaccagni,it ITA,FWMF,Lazio,28.0,1995.0,21.7,8,0,0,29,79,7,71,21,16,1.0,0.0,0,77.0,11.0,12.0,47.8,Matches
+594,595,Nicola Zalewski,pl POL,DFFW,Roma,21.0,2002.0,10.8,3,1,1,14,27,1,38,9,14,0.0,0.0,0,47.0,10.0,8.0,55.6,Matches
+595,596,Andre-Frank Zambo Anguissa,cm CMR,MF,Napoli,27.0,1995.0,31.0,2,0,0,41,38,3,20,28,33,0.0,0.0,0,174.0,46.0,45.0,50.5,Matches
+596,597,Alessandro Zanoli,it ITA,DF,Salernitana,22.0,2000.0,10.2,3,0,0,5,4,1,30,1,13,0.0,0.0,1,26.0,7.0,12.0,36.8,Matches
+597,598,Alessandro Zanoli,it ITA,DFFW,Napoli,22.0,2000.0,0.6,1,0,0,3,0,0,2,1,1,0.0,0.0,0,2.0,0.0,2.0,0.0,Matches
+598,599,Duván Zapata,co COL,FW,Torino,32.0,1991.0,32.0,2,0,0,53,67,22,50,7,7,0.0,0.0,0,85.0,129.0,115.0,52.9,Matches
+599,600,Duván Zapata,co COL,FW,Atalanta,32.0,1991.0,1.2,0,0,0,1,4,1,6,0,0,0.0,0.0,0,6.0,5.0,5.0,50.0,Matches
+600,601,Gabriele Zappa,it ITA,DF,Cagliari,23.0,1999.0,28.5,2,0,0,21,15,0,77,20,31,0.0,0.0,0,109.0,19.0,32.0,37.3,Matches
+601,602,Davide Zappacosta,it ITA,DF,Atalanta,31.0,1992.0,20.7,5,0,0,26,15,2,76,5,20,0.0,0.0,0,99.0,9.0,13.0,40.9,Matches
+602,603,Oier Zarraga,es ESP,MF,Udinese,24.0,1999.0,4.5,0,0,0,3,3,0,5,5,3,0.0,0.0,0,12.0,3.0,3.0,50.0,Matches
+603,604,Jordan Zemura,zw ZIM,DF,Udinese,23.0,1999.0,11.5,1,0,0,15,15,0,21,13,16,0.0,0.0,0,41.0,9.0,10.0,47.4,Matches
+604,605,Alessio Zerbin,it ITA,DFFW,Monza,24.0,1999.0,7.6,2,1,1,18,13,0,31,3,10,0.0,0.0,0,40.0,2.0,10.0,16.7,Matches
+605,606,Alessio Zerbin,it ITA,FWDF,Napoli,24.0,1999.0,1.7,0,0,0,7,4,0,7,0,2,0.0,0.0,0,6.0,1.0,1.0,50.0,Matches
+606,607,Kevin Zeroli,it ITA,MF,Milan,18.0,2005.0,0.3,0,0,0,0,0,0,1,0,1,0.0,0.0,0,1.0,1.0,1.0,50.0,Matches
+607,608,Piotr Zieliński,pl POL,MF,Napoli,29.0,1994.0,21.4,1,0,0,15,18,0,89,9,15,0.0,0.0,0,87.0,6.0,11.0,35.3,Matches
+608,609,David Zima,cz CZE,DF,Torino,22.0,2000.0,1.0,0,0,0,0,1,0,0,3,1,0.0,0.0,0,6.0,2.0,5.0,28.6,Matches
+609,610,Joshua Zirkzee,nl NED,FW,Bologna,22.0,2001.0,30.7,8,0,0,29,27,5,8,3,20,0.0,0.0,0,103.0,29.0,39.0,42.6,Matches
+610,611,Nadir Zortea,it ITA,DF,Frosinone,24.0,1999.0,14.0,3,0,0,15,14,0,74,4,14,0.0,0.0,0,53.0,11.0,21.0,34.4,Matches
+611,612,Nadir Zortea,it ITA,DF,Atalanta,24.0,1999.0,1.7,1,0,0,4,2,0,12,1,4,0.0,0.0,0,4.0,0.0,2.0,0.0,Matches
+612,613,Szymon Żurkowski,pl POL,MF,Empoli,25.0,1997.0,9.6,4,0,0,19,17,2,6,6,6,0.0,0.0,0,37.0,7.0,17.0,29.2,Matches
+613,614,Milan Đurić,ba BIH,FW,Hellas Verona,33.0,1990.0,13.4,2,0,0,26,19,6,1,1,0,0.0,0.0,0,25.0,135.0,43.0,75.8,Matches
+614,615,Milan Đurić,ba BIH,FW,Monza,33.0,1990.0,14.0,2,0,0,23,26,1,1,0,5,0.0,0.0,0,29.0,86.0,40.0,68.3,Matches
+615,616,Mateusz Łęgowski,pl POL,MF,Salernitana,20.0,2003.0,12.7,3,0,0,24,10,2,6,7,12,0.0,0.0,0,60.0,13.0,16.0,44.8,Matches
