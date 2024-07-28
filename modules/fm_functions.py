@@ -3,8 +3,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from fuzzywuzzy import process
+from tqdm import tqdm
 
-### Skill dictionaries for radar graphs
+### FM skill dictionaries for radar graphs
 fm_outfielders_skills_graph_dict = {
     'defending': (('Tackling', 0.50), ('Marking', 0.25), ('Positioning', 0.25)),
     'physical': (('Strength', 0.25), ('Stamina', 0.25), ('Balance', 0.25), ('Agility', 0.25)),
@@ -30,12 +31,20 @@ fm_gks_skills_graph_dict = {
 }
 
 ### Select important columns
-FM_columns = ['Name', 'Position', 'Corners', 'Crossing', 'Dribbling', 'Finishing', 'First Touch',
-              'Free Kick Taking', 'Heading', 'Long Shots', 'Long Throws', 'Marking', 'Passing',
-              'Penalty Taking', 'Tackling', 'Technique', 'Aggressiion', 'Anticipation', 'Bravery',
-              'Composure', 'Concentration', 'Vision', 'Decision', 'Determination', 'Flair', 'Leadership',
-              'Off The Ball', 'Teamwork', 'Work Rate', 'Positioning', 'Acceleration', 'Agility', 'Balance',
-              'Jumping Reach', 'Natural Fitness', 'Pace', 'Stamina', 'Strength']
+FM_columns = ['Corners', 'Crossing', 'Dribbling', 'Finishing', 'First Touch', 'Free Kick Taking',
+              'Heading', 'Long Shots', 'Long Throws', 'Marking', 'Passing', 'Penalty Taking',
+              'Tackling', 'Technique', 'Aggressiion', 'Anticipation', 'Bravery', 'Composure',
+              'Concentration', 'Vision', 'Decision', 'Determination', 'Flair', 'Leadership',
+              'Off The Ball', 'Teamwork', 'Work Rate', 'Positioning', 'Acceleration', 'Agility',
+              'Balance', 'Jumping Reach', 'Natural Fitness', 'Pace', 'Stamina', 'Strength']
+FC_columns = ['attacking_crossing', 'attacking_finishing', 'attacking_heading_accuracy',
+              'attacking_short_passing', 'attacking_volleys', 'skill_dribbling', 'skill_curve',
+              'skill_fk_accuracy', 'skill_long_passing', 'skill_ball_control', 'movement_acceleration',
+              'movement_sprint_speed', 'movement_agility','movement_reactions', 'movement_balance',
+              'power_shot_power', 'power_jumping', 'power_stamina', 'power_strength', 'power_long_shots',
+              'mentality_aggression', 'mentality_interceptions', 'mentality_positioning', 'mentality_vision',
+              'mentality_penalties', 'mentality_composure', 'defending_marking_awareness',
+              'defending_standing_tackle', 'defending_sliding_tackle']
 defense_columns = ['defense_Blocks_Blocks', 'defense_Tackles_Tkl', 'defense_Tackles_TklW',
                    'defense_Tackles_Def 3rd', 'defense_Tackles_Mid 3rd', 'defense_Tackles_Att 3rd',
                    'defense__Int', 'defense__Clr']
