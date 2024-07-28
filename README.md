@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Data Preprocessing](#data-preprocessing)
+2. [Notebooks](#notebooks)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contribution](#contribution)
@@ -20,14 +20,14 @@ Welcome to the Soccer Stats Spectacular! This project dives into the world of so
 
 Get ready for a deep dive into soccer stats, where data science meets the beautiful game!
 
-## Data Preprocessing
+## Notebooks
 
 ### 1. Data Consolidation [📓](notebooks/01_data_consolidation.ipynb)
 - Merge separate files for each league and statistic type.
 - Combine FBRef statistics with Football Manager and FC24 ratings.
 - Ensure consistent player and team naming across all datasets.
 
-### 2. Feature Engineering
+### 2. Feature Engineering [📓](notebooks/02_feature_engineering.ipynb)
 - Calculate percentage above/below team average for each player statistic:
     ```python
     def percent_above_below(group):
@@ -36,42 +36,28 @@ Get ready for a deep dive into soccer stats, where data science meets the beauti
     player_data_transformed = player_data.groupby('team').  transform(percent_above_below)
     ```
 - Aggregate original pre-transformation data per team for team-level statistics.
-
-### 3. Dimensionality Reduction for Player Statistics
-- Apply Principal Component Analysis (PCA) to reduce the dimensionality of player statistics:
-    ```python
-    from sklearn.decomposition import PCA
-    from sklearn.preprocessing import StandardScaler
-
-    scaler = StandardScaler()
-    player_data_scaled = scaler.fit_transform(player_data_transformed)
-
-    pca_player = PCA(n_components=0.95)  # Retain 95% of variance
-    player_pca = pca_player.fit_transform(player_data_scaled)
-    ```
-
-### 4. Team Style and Strength Encoding
+- Apply Principal Component Analysis (PCA) to reduce the dimensionality of player statistics separately for each statistic group:
+    - defense
+    - touches
+    - passing
+    - progression
+    - attack
+    - miscelaneous
 - Apply PCA to reduce the dimensionality of team statistics.
-- Append the resulting team PCA components to individual player data:
-    ```python
-    team_data_scaled = scaler.fit_transform(team_data)
-    pca_team = PCA(n_components=5)  # Adjust number of components as needed
-    team_pca = pca_team.fit_transform(team_data_scaled)
+- Combine all produced components into one dataframe.
 
-    player_data_final = pd.concat([
-        pd.DataFrame(player_pca),
-        pd.DataFrame(team_pca[player_data['team_id']])
-        ], axis=1)
-    ```
-
-### 5. Data Validation and Exploratory Analysis
+### 3. Data Validation and Exploratory Analysis
 - Perform exploratory data analysis (EDA) after each preprocessing step.
 - Visualize PCA results to understand player and team distributions.
 - Validate the effectiveness of the preprocessing steps.
 
-### 6. Data Versioning
-- Implement a versioning system for datasets at each preprocessing stage.
-- Ensure reproducibility of results and enable easy backtracking if needed.
+### 4. Similarity
+- Implement functions to identify similar items based on cosine similarity or eucledian distance.
+- Identify similar teams and players.
+
+### 5. Modelling
+- Create models to predict FM skills
+- Create models to predict FC skills
 
 ## Installation
 To get started with the Soccer Stats Spectacular, follow these steps:
