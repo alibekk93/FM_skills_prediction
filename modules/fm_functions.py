@@ -151,8 +151,6 @@ def plot_fm_radar(data: dict, gk: bool = False) -> None:
     plt.show()
 
 # Get the best match between names given exact DOB
-from fuzzywuzzy import process
-
 def get_best_match(name, yob, grouped_df, player_col, threshold=80):
     """
     Find the best matching player name from a dataset based on name similarity and year of birth.
@@ -194,3 +192,47 @@ def get_best_match(name, yob, grouped_df, player_col, threshold=80):
     
     match, score = process.extractOne(name, choices.values)
     return match if score >= threshold else None
+
+# Smith-Waterman function
+def smith_waterman(s1, s2, match_score=2, gap_cost=1):
+    """
+    Compute the Smith-Waterman score between two strings.
+    
+    :param s1: First string.
+    :param s2: Second string.
+    :param match_score: Score for character match.
+    :param gap_cost: Cost for gap (insertion/deletion).
+    :return: The Smith-Waterman score for the best local alignment.
+    """
+    m, n = len(s1), len(s2)
+    score_matrix = [[0] * (n + 1) for _ in range(m + 1)]
+    max_score = 0
+
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            match = score_matrix[i - 1][j - 1] + (match_score if s1[i - 1] == s2[j - 1] else -match_score)
+            delete = score_matrix[i - 1][j] - gap_cost
+            insert = score_matrix[i][j - 1] - gap_cost
+            score_matrix[i][j] = max(0, match, delete, insert)
+            max_score = max(max_score, score_matrix[i][j])
+
+    return max_score
+
+# Use Smith-Waterman to find similar strings
+def find_most_similar_strings(target, strings, n=5):
+    """
+    Find the n most similar strings to the target string from a list of strings using Smith-Waterman score.
+    
+    :param target: The target string to compare against.
+    :param strings: A list of strings to search within.
+    :param n: The number of most similar strings to return. Default is 5.
+    :return: A list of the n most similar strings.
+    """
+    # Compute the Smith-Waterman score for each string in the list
+    scores = [(string, smith_waterman(target, string)) for string in strings]
+    
+    # Find the n strings with the highest scores
+    most_similar = sorted(scores, key=lambda x: x[1], reverse=True)[:n]
+    
+    # Extract and return only the strings (not the scores)
+    return [string for string, score in most_similar]
