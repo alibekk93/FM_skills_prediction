@@ -2,6 +2,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from fuzzywuzzy import process
 
 ### Skill dictionaries for radar graphs
 fm_outfielders_skills_graph_dict = {
@@ -148,3 +149,48 @@ def plot_fm_radar(data: dict, gk: bool = False) -> None:
     # Set title with a stylish font
     ax.set_title(data['name'] + title_suffix, y=1.1, fontsize=20, color='#4B0082', fontweight='bold')
     plt.show()
+
+# Get the best match between names given exact DOB
+from fuzzywuzzy import process
+
+def get_best_match(name, yob, grouped_df, player_col, threshold=80):
+    """
+    Find the best matching player name from a dataset based on name similarity and year of birth.
+
+    This function attempts to find the closest match for a given player name within a subset of players
+    born in the same year. It uses fuzzy string matching to compare names and returns the best match
+    if it meets or exceeds the specified similarity threshold.
+
+    Parameters:
+    name (str): The name of the player to match.
+    yob (int or str): The year of birth of the player.
+    grouped_df (pandas.core.groupby.DataFrameGroupBy): A GroupBy object of the DataFrame containing player data,
+                                                       grouped by year of birth.
+    player_col (str): The name of the column containing player names.
+    threshold (int, optional): The minimum similarity score required for a match. Defaults to 80.
+
+    Returns:
+    str or None: The name of the best matching player if a match is found and meets the threshold,
+                 otherwise None.
+
+    Note:
+    - The function uses the fuzzywuzzy library's process.extractOne for string matching.
+    - If no players are found for the given year of birth, the function returns None.
+    - The grouped_df should be a pandas GroupBy object, grouped by year of birth.
+
+    Example:
+    >>> df = pd.DataFrame({'_Player_': ['John Doe', 'Jane Smith'], 'YOB': [1990, 1991]})
+    >>> grouped_df = df.groupby('YOB')
+    >>> get_best_match('Jon Doe', 1990, grouped_df)
+    'John Doe'
+    """
+    try:
+        choices = grouped_df.get_group(yob)[player_col]
+    except KeyError:
+        return None
+    
+    if choices.empty:
+        return None
+    
+    match, score = process.extractOne(name, choices.values)
+    return match if score >= threshold else None
