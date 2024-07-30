@@ -4,6 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from fuzzywuzzy import process
 from tqdm import tqdm
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 ### FM skill dictionaries for radar graphs
 fm_outfielders_skills_graph_dict = {
@@ -61,6 +63,12 @@ misc_columns = ['playingtime_PlayingTime_Min', 'misc_Performance_Fls', 'misc_Per
                 'misc_Performance_Off', 'misc_AerialDuels_Won', 'misc_AerialDuels_Lost']
 all_stats_columns = (defense_columns + touches_columns + passing_columns +
                      progres_columns + attack_columns + misc_columns)
+stat_types_dict = {'defense' : defense_columns,
+                   'touches' : touches_columns,
+                   'passing' : passing_columns,
+                   'progres' : progres_columns,
+                   'attack' : attack_columns,
+                   'misc' : misc_columns}
 
 ### Calculate skill nodes for radar graphs
 def calculate_skill_nodes(data: pd.Series, gk: bool = False) -> dict:
