@@ -22,12 +22,8 @@ Get ready for a deep dive into soccer stats, where data science meets the beauti
 
 ## Notebooks
 
-### 1. Data Consolidation [📓](notebooks/01_data_consolidation.ipynb)
+### 1. Data Preparation [📓](notebooks/01_data_preparation.ipynb)
 - Merge separate files for each league and statistic type.
-- Combine FBRef statistics with Football Manager and FC24 ratings.
-- Ensure consistent player and team naming across all datasets.
-
-### 2. Feature Engineering [📓](notebooks/02_feature_engineering.ipynb)
 - Calculate percentage above/below team average for each player statistic:
     ```python
     def percent_above_below(group):
@@ -44,7 +40,10 @@ Get ready for a deep dive into soccer stats, where data science meets the beauti
     - attack
     - miscelaneous
 - Apply PCA to reduce the dimensionality of team statistics.
-- Combine all produced components into one dataframe.
+- Create tags to combine FBRef statistics with Football Manager and FC24 ratings.
+
+### 2. Data Consolidation [📓](notebooks/02_feature_engineering.ipynb)
+
 
 ### 3. Data Validation and Exploratory Analysis
 - Perform exploratory data analysis (EDA) after each preprocessing step.
