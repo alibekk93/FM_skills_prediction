@@ -253,3 +253,7 @@ def find_most_similar_strings(target, strings, n=5):
     
     # Extract and return only the strings (not the scores)
     return [string for string, score in most_similar]
+
+# function to transform values into percent above/below group mean
+def percent_above_below(group):
+    return (group - group.mean()) / group.mean()
