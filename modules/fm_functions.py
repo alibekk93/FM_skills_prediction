@@ -207,8 +207,8 @@ def get_best_match(name, yob, grouped_df, player_col, threshold=80):
     if choices.empty:
         return None
     
-    match, score = process.extractOne(name, choices.values)
-    return match if score >= threshold else None
+    match, score, index = process.extractOne(name, choices, scorer=process.fuzz.token_sort_ratio)
+    return index if score >= threshold else None
 
 # Smith-Waterman function
 def smith_waterman(s1, s2, match_score=2, gap_cost=1):
