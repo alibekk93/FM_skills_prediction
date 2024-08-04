@@ -39,8 +39,10 @@ Get ready for a deep dive into soccer stats, where data science meets the beauti
 - Apply PCA to reduce the dimensionality of team statistics.
 - Create tags to combine FBRef statistics with Football Manager and FC24 ratings.
 
-### 2. Data Consolidation [📓](notebooks/02_feature_engineering.ipynb)
-
+### 2. Team similarity [📓](notebooks/02_team_similarity.ipynb)
+- Use aggregated team statistics (pre- or after PCA) to find similar teams using:
+    - cosine similarity
+    - Euclidean distance
 
 ### 3. Data Validation and Exploratory Analysis
 - Perform exploratory data analysis (EDA) after each preprocessing step.
