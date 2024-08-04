@@ -24,13 +24,10 @@ Get ready for a deep dive into soccer stats, where data science meets the beauti
 
 ### 1. Data Preparation [📓](notebooks/01_data_preparation.ipynb)
 - Merge separate files for each league and statistic type.
-- Calculate percentage above/below team average for each player statistic:
-    ```python
-    def percent_above_below(group):
-        return (group - group.mean()) / group.mean()
-  
-    player_data_transformed = player_data.groupby('team').  transform(percent_above_below)
-    ```
+- Calculate percentage above/below team average for each player statistic.
+    - The assumption here is that each player has a role within their team's tactic and their statistics will largely depend on the role.
+    - Team style also has an affect on statistics and would distort results if not taken into account.
+    - Using percentage above/below team mean statistic instead of raw statistics would be a better representation of players' roles within their teams as well as normalize data for us.
 - Aggregate original pre-transformation data per team for team-level statistics.
 - Apply Principal Component Analysis (PCA) to reduce the dimensionality of player statistics separately for each statistic group:
     - defense
