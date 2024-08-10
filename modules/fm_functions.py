@@ -90,7 +90,7 @@ def calculate_skill_nodes(data: pd.Series, gk: bool = False) -> dict:
     skill_dict = fm_gks_skills_graph_dict if gk else fm_outfielders_skills_graph_dict
 
     # Make a dictionary of nodes
-    node_values = {'name': data['Name']}
+    node_values = {'name': data['_Player_']}
     for node_name, skills in skill_dict.items():
         node_value = sum(data[skill_name] * weight for skill_name, weight in skills)
         node_values[node_name] = node_value
